@@ -1,0 +1,1001 @@
+age,gender,laptop_model,laptop_price,laptop_ram,laptop_processor,laptop_screen_size,laptop_battery_life/hours,laptop_color,country
+40,Female,MacBook Pro,457,8GB,Intel Core i5,13.4,12,Teal,Albania
+23,Female,Microsoft,1341,32GB,Intel Core i5,15.7,13.3,Green,Portugal
+16,Female,Microsoft,1936,16GB,Intel Core i5,13.6,6.1,Yellow,France
+35,Male,HP Spectre,1573,4GB,Intel Core i9,12.3,15,Pink,Portugal
+23,Male,Asus ZenBook,1847,16GB,Intel Core i7,12.1,15.3,Green,Sweden
+23,Female,Dell XPS,1166,4GB,Intel Core i5,12.8,12,Green,Sweden
+44,Male,Dell XPS,479,8GB,Intel Core i7,15.3,10.8,Aquamarine,Germany
+55,Male,Lenovo ThinkPad,766,32GB,Intel Core i9,10.1,14.3,Goldenrod,Italy
+31,Female,MacBook Pro,1156,4GB,Intel Core i9,12,8.5,Maroon,Serbia
+52,Male,MacBook Pro,377,8GB,Intel Core i5,14.4,9.9,Violet,Sweden
+57,Female,Microsoft,1023,8GB,Intel Core i3,12.7,6,Violet,France
+29,Male,HP Spectre,497,16GB,Intel Core i7,12.9,14.6,Aquamarine,Ukraine
+34,Female,Microsoft,529,32GB,Intel Core i5,13.7,5.3,Fuscia,France
+46,Female,Asus ZenBook,1603,8GB,Intel Core i5,16.9,13.2,Aquamarine,Italy
+39,Male,Dell XPS,860,8GB,Intel Core i3,10.8,5.7,Maroon,Norway
+21,Male,Dell XPS,631,16GB,Intel Core i5,11.4,6.4,Aquamarine,Ukraine
+55,Female,Microsoft,1841,16GB,Intel Core i5,11.7,6.6,Crimson,Sweden
+34,Female,MacBook Pro,639,4GB,Intel Core i7,15.1,7.3,Orange,Portugal
+18,Female,Microsoft,1851,8GB,Intel Core i9,10.1,14.9,Green,Sweden
+58,Female,MacBook Pro,200,32GB,Intel Core i7,12.4,8.5,Maroon,Ireland
+56,Female,Asus ZenBook,949,32GB,Intel Core i7,12.8,6.6,Orange,Portugal
+31,Female,Asus ZenBook,1600,8GB,Intel Core i3,16.8,4.4,Khaki,Norway
+33,Female,Lenovo ThinkPad,1383,4GB,Intel Core i7,14.2,8.2,Mauv,Ukraine
+60,Female,Microsoft,706,32GB,Intel Core i3,13.4,15.1,Indigo,Sweden
+24,Male,HP Spectre,1590,32GB,Intel Core i9,10.7,9.4,Teal,Sweden
+33,Male,Lenovo ThinkPad,1053,16GB,Intel Core i3,14.4,6.4,Teal,France
+42,Male,Asus ZenBook,1156,16GB,Intel Core i3,11.2,14.8,Blue,Ireland
+23,Female,Lenovo ThinkPad,1357,8GB,Intel Core i7,10.1,15.4,Teal,Italy
+16,Male,Microsoft,914,16GB,Intel Core i9,15.5,7.5,Aquamarine,Portugal
+39,Female,Lenovo ThinkPad,498,32GB,Intel Core i5,12.3,6.6,Turquoise,Albania
+41,Male,Microsoft,1455,4GB,Intel Core i3,10.5,12.8,Blue,Sweden
+18,Female,Dell XPS,1543,8GB,Intel Core i9,13.9,12.5,Violet,Portugal
+25,Male,Dell XPS,1339,4GB,Intel Core i9,16,4.7,Yellow,Portugal
+49,Male,Dell XPS,505,8GB,Intel Core i3,10.3,5.7,Maroon,France
+35,Male,Asus ZenBook,1344,16GB,Intel Core i3,10.5,8,Purple,Portugal
+35,Male,Dell XPS,263,8GB,Intel Core i3,11.6,11.8,Goldenrod,Norway
+48,Female,Asus ZenBook,1525,32GB,Intel Core i5,13.5,7.1,Orange,Greece
+19,Female,Dell XPS,628,4GB,Intel Core i3,13.4,7.9,Mauv,Germany
+28,Female,Dell XPS,541,4GB,Intel Core i5,12.9,10.5,Teal,Sweden
+56,Female,Lenovo ThinkPad,601,16GB,Intel Core i3,14,13.1,Yellow,Greece
+17,Male,Lenovo ThinkPad,1453,16GB,Intel Core i5,10.8,9.2,Aquamarine,Portugal
+45,Male,HP Spectre,1084,4GB,Intel Core i3,11.1,14,Indigo,Portugal
+33, Female,Dell XPS,1305,16GB,Intel Core i5,14.2,12.2,Yellow,Ukraine
+41,Male,Microsoft,1032,32GB,Intel Core i7,14.2,7.5,Aquamarine,Serbia
+33,Female,Microsoft,791,4GB,Intel Core i7,12.4,5,Green,Portugal
+25,Female,Microsoft,1567,4GB,Intel Core i5,12.1,10.1,Fuscia,Sweden
+22,Female,HP Spectre,419,16GB,Intel Core i5,11.6,7.8,Pink,Portugal
+38,Male,HP Spectre,307,16GB,Intel Core i7,13.1,12.5,Khaki,Ukraine
+35,Female,Asus ZenBook,1451,16GB,Intel Core i3,10.8,7.5,Indigo,France
+51,Female,Dell XPS,1732,4GB,Intel Core i3,11.9,8.8,Aquamarine,France
+28,Female,Dell XPS,329,16GB,Intel Core i9,10.8,14.5,Indigo,Sweden
+16,Female,MacBook Pro,1868,8GB,Intel Core i7,13.1,9.9,Fuscia,France
+37,Female,Lenovo ThinkPad,1202,4GB,Intel Core i3,15.5,7.1,Yellow,Portugal
+34,Male,HP Spectre,1168,32GB,Intel Core i3,11.4,13.2,Green,Sweden
+37,Male,Lenovo ThinkPad,339,8GB,Intel Core i3,12.3,6,Khaki,Norway
+51,Female,Dell XPS,1226,16GB,Intel Core i3,12.8,10.2,Red,Norway
+23,Female,Microsoft,491,8GB,Intel Core i9,12.6,15.4,Yellow,Portugal
+39,Female,Microsoft,791,8GB,Intel Core i3,10.6,15.8,Violet,Spain
+51,Female,Lenovo ThinkPad,475,4GB,Intel Core i7,14.4,14.5,Goldenrod,France
+16,Female,MacBook Pro,1950,16GB,Intel Core i5,10.2,15.3,Orange,Ukraine
+49,Female,MacBook Pro,411,4GB,Intel Core i3,12.5,7.7,Purple,Greece
+31,Female,HP Spectre,1685,32GB,Intel Core i7,12,14.1,Purple,Greece
+15,Male,MacBook Pro,684,32GB,Intel Core i5,16.6,8.6,Khaki,Sweden
+14,Male,MacBook Pro,663,32GB,Intel Core i7,15.6,8,Aquamarine,France
+18,Female,HP Spectre,593,32GB,Intel Core i5,13.5,7.7,Pink,Greece
+35,Male,Microsoft,708,32GB,Intel Core i3,16.5,14.4,Turquoise,Sweden
+38,Male,HP Spectre,246,4GB,Intel Core i9,12.4,8.3,Yellow,France
+24,Female,Dell XPS,308,32GB,Intel Core i7,15,14,Pink,Portugal
+40,Female,Dell XPS,546,4GB,Intel Core i9,14.3,7.7,Green,Portugal
+52,Female,Lenovo ThinkPad,1152,4GB,Intel Core i7,15.3,10,Indigo,Norway
+51,Male,Dell XPS,686,8GB,Intel Core i7,11.9,11,Crimson,Portugal
+20,Female,Microsoft,384,8GB,Intel Core i3,13.7,11.7,Aquamarine,France
+24,Male,MacBook Pro,284,8GB,Intel Core i9,15.2,5.3,Teal,Portugal
+27,Female,Lenovo ThinkPad,1824,8GB,Intel Core i3,15.3,8.1,Puce,Serbia
+29,Male,MacBook Pro,316,4GB,Intel Core i3,15.2,8.4,Turquoise,Portugal
+23,Male,Asus ZenBook,1076,32GB,Intel Core i7,15.4,5.3,Khaki,Greece
+26,Male,Microsoft,1541,16GB,Intel Core i5,10.1,4.7,Indigo,Portugal
+47,Female,Dell XPS,1990,16GB,Intel Core i7,13.3,10.8,Purple,Ukraine
+38,Female,HP Spectre,1380,8GB,Intel Core i5,11.6,13.9,Teal,France
+60,Male,Asus ZenBook,662,32GB,Intel Core i7,11.6,6.6,Fuscia,France
+16,Female,MacBook Pro,426,8GB,Intel Core i5,16.3,7,Goldenrod,Portugal
+24,Male,HP Spectre,1850,8GB,Intel Core i7,10.2,4.3,Violet,Spain
+29,Female,Dell XPS,1866,8GB,Intel Core i5,10.2,14.9,Green,Serbia
+49,Male,Lenovo ThinkPad,545,16GB,Intel Core i9,11.4,11.6,Indigo,Portugal
+45,Female,HP Spectre,767,8GB,Intel Core i9,15,6,Mauv,Austria
+49,Female,Lenovo ThinkPad,351,8GB,Intel Core i5,10.9,5.6,Mauv,Ukraine
+56,Female,Microsoft,648,4GB,Intel Core i3,16.1,11.9,Mauv,Ukraine
+56,Female,Microsoft,1516,16GB,Intel Core i3,13.1,8.2,Yellow,Greece
+40,Female,Microsoft,1394,8GB,Intel Core i7,10.6,15.9,Goldenrod,Sweden
+34,Female,Lenovo ThinkPad,416,16GB,Intel Core i7,13.2,6.2,Puce,Greece
+19,Female,Microsoft,591,4GB,Intel Core i9,13.7,15,Purple,Ukraine
+58,Female,HP Spectre,1419,16GB,Intel Core i3,12.3,7.3,Violet,Greece
+25,Male,Asus ZenBook,1236,16GB,Intel Core i9,10.3,9.5,Puce,Greece
+54,Female,MacBook Pro,1938,4GB,Intel Core i7,11.8,8.5,Violet,Portugal
+29,Male,Dell XPS,1157,32GB,Intel Core i9,16.4,4.5,Turquoise,Portugal
+40,Male,Asus ZenBook,445,16GB,Intel Core i3,13.8,11,Yellow,Portugal
+46,Male,Lenovo ThinkPad,431,16GB,Intel Core i3,15.3,8.5,Crimson,Serbia
+54,Male,Microsoft,398,4GB,Intel Core i9,11.4,11.3,Indigo,Ukraine
+37,Male,HP Spectre,955,4GB,Intel Core i3,11.8,14.4,Puce,Serbia
+17,Female,Asus ZenBook,1171,16GB,Intel Core i9,11.2,5.4,Khaki,Portugal
+35,Male,Dell XPS,418,4GB,Intel Core i5,11.9,10.6,Orange,Sweden
+38,Male,HP Spectre,598,4GB,Intel Core i9,15.9,12.9,Pink,Sweden
+34,Female,HP Spectre,499,4GB,Intel Core i7,17,7,Crimson,Sweden
+40,Female,Asus ZenBook,1844,32GB,Intel Core i5,15.4,13.4,Khaki,Ireland
+35,Female,Lenovo ThinkPad,1390,16GB,Intel Core i5,16,12.3,Green,Sweden
+54,Female,Asus ZenBook,1193,8GB,Intel Core i9,12.2,10,Fuscia,France
+42,Male,Lenovo ThinkPad,409,16GB,Intel Core i9,11.2,9.9,Indigo,Ukraine
+25,Female,Dell XPS,477,16GB,Intel Core i3,13.9,5.4,Maroon,Ukraine
+35,Male,MacBook Pro,811,32GB,Intel Core i9,15.5,6.6,Yellow,France
+58,Male,HP Spectre,698,16GB,Intel Core i3,11.9,10.5,Violet,Ukraine
+54,Male,Asus ZenBook,1656,16GB,Intel Core i5,12.1,14,Goldenrod,Denmark
+30,Female,Dell XPS,1981,4GB,Intel Core i9,12.2,6.3,Goldenrod,Spain
+26,Female,Lenovo ThinkPad,1252,8GB,Intel Core i7,16,8.9,Red,Portugal
+25,Male,Microsoft,1794,8GB,Intel Core i7,10.8,8.9,Violet,Ukraine
+19,Male,MacBook Pro,1644,8GB,Intel Core i9,14.3,5.1,Pink,Sweden
+60,Male,Dell XPS,1772,8GB,Intel Core i5,16.5,5.6,Crimson,Ukraine
+36,Female,Dell XPS,1452,32GB,Intel Core i5,14.8,6.5,Green,Ukraine
+43,Male,MacBook Pro,1928,16GB,Intel Core i9,17,15.5,Violet,Albania
+25,Male,Microsoft,1122,4GB,Intel Core i5,13.3,8.2,Goldenrod,Greece
+56,Male,Microsoft,1888,32GB,Intel Core i7,12.4,5.2,Orange,Sweden
+14,Female,MacBook Pro,1438,32GB,Intel Core i9,15.6,14.6,Teal,Portugal
+46,Female,Asus ZenBook,937,4GB,Intel Core i5,12.2,8.3,Blue,Greece
+21,Female,Lenovo ThinkPad,1804,8GB,Intel Core i7,15.6,13.7,Indigo,Sweden
+19,Male,Dell XPS,1024,4GB,Intel Core i3,16.5,11,Turquoise,Greece
+14,Female,Lenovo ThinkPad,401,4GB,Intel Core i7,10.2,5.3,Yellow,France
+56,Female,Asus ZenBook,1589,4GB,Intel Core i5,13.9,8.8,Goldenrod,France
+34,Male,Lenovo ThinkPad,620,16GB,Intel Core i7,15.1,4.3,Blue,Sweden
+43,Female,HP Spectre,277,4GB,Intel Core i3,15.1,13.8,Pink,Portugal
+34,Female,Microsoft,588,4GB,Intel Core i7,14.8,10.4,Indigo,Ukraine
+31,Female,Dell XPS,1205,32GB,Intel Core i7,16.5,13.9,Purple,Greece
+32,Male,Microsoft,985,4GB,Intel Core i3,10.1,11.7,Goldenrod,Germany
+17,Female,HP Spectre,336,32GB,Intel Core i9,14.8,10.4,Crimson,United Kingdom
+43,Female,MacBook Pro,269,8GB,Intel Core i3,16.3,6.9,Turquoise,Portugal
+53,Female,HP Spectre,1106,32GB,Intel Core i7,14.2,10.7,Goldenrod,Sweden
+33,Female,Asus ZenBook,277,16GB,Intel Core i7,15.6,7,Maroon,Ukraine
+21,Male,Asus ZenBook,356,16GB,Intel Core i9,16.3,6.4,Blue,Portugal
+37,Female,Asus ZenBook,1052,32GB,Intel Core i9,11.3,7.3,Aquamarine,Ireland
+21,Male,HP Spectre,930,4GB,Intel Core i7,11,5.1,Goldenrod,France
+32,Male,MacBook Pro,1925,32GB,Intel Core i7,13.6,14.5,Maroon,Spain
+49,Female,HP Spectre,312,4GB,Intel Core i9,13.2,9.1,Aquamarine,France
+17,Female,MacBook Pro,1626,16GB,Intel Core i3,16.7,15.2,Yellow,Ireland
+55,Female,HP Spectre,1044,4GB,Intel Core i5,14.2,13,Teal,Norway
+14,Male,Dell XPS,1728,4GB,Intel Core i5,11.8,14.4,Aquamarine,France
+17,Female,HP Spectre,1702,16GB,Intel Core i7,13.6,5.4,Pink,France
+40,Male,Microsoft,256,4GB,Intel Core i9,12.5,12.6,Crimson,Portugal
+44,Female,Asus ZenBook,1277,32GB,Intel Core i7,11.2,10,Purple,Greece
+32, Female,Dell XPS,567,4GB,Intel Core i7,15.7,4.6,Orange,Serbia
+53,Female,Lenovo ThinkPad,1886,16GB,Intel Core i5,15.2,10.1,Crimson,France
+49,Female,Lenovo ThinkPad,1911,16GB,Intel Core i7,10.1,8.2,Blue,France
+58,Male,Lenovo ThinkPad,311,4GB,Intel Core i9,13.3,8.4,Teal,Greece
+17,Female,MacBook Pro,983,4GB,Intel Core i5,14,14.7,Crimson,Ukraine
+31,Female,Lenovo ThinkPad,1637,8GB,Intel Core i9,16.1,9.4,Green,Ukraine
+58,Male,HP Spectre,1297,32GB,Intel Core i3,10.2,13.8,Fuscia,Greece
+49,Male,Dell XPS,710,16GB,Intel Core i3,15.7,13.6,Orange,Greece
+30,Male,Asus ZenBook,697,16GB,Intel Core i3,11.3,4.1,Aquamarine,Spain
+24,Female,Asus ZenBook,952,16GB,Intel Core i3,12,7.3,Indigo,Norway
+14,Female,HP Spectre,397,16GB,Intel Core i9,16.7,12.7,Blue,Albania
+60,Female,HP Spectre,862,4GB,Intel Core i9,13.9,9.7,Teal,Norway
+49,Male,Dell XPS,1248,8GB,Intel Core i5,12.6,11.3,Goldenrod,France
+57,Female,Dell XPS,1825,16GB,Intel Core i3,13.6,12.7,Green,Portugal
+23,Male,MacBook Pro,396,32GB,Intel Core i5,11.2,7,Indigo,France
+44,Male,MacBook Pro,1966,32GB,Intel Core i3,13.5,6.2,Yellow,Ukraine
+16,Male,Dell XPS,1188,4GB,Intel Core i5,16.7,12,Pink,Sweden
+35,Female,Lenovo ThinkPad,1083,8GB,Intel Core i9,15.2,11.2,Purple,Sweden
+26,Male,Microsoft,1406,8GB,Intel Core i9,11.1,14.1,Khaki,Portugal
+18,Male,Dell XPS,990,8GB,Intel Core i5,16.9,13.7,Red,Sweden
+44,Male,Microsoft,1935,8GB,Intel Core i3,11.3,14.7,Purple,Sweden
+20,Female,MacBook Pro,217,8GB,Intel Core i7,13.9,5.2,Teal,France
+15,Male,Asus ZenBook,1861,32GB,Intel Core i5,11.6,9.8,Crimson,Ukraine
+16,Female,Microsoft,1496,16GB,Intel Core i9,16.5,11,Indigo,Norway
+27,Male,HP Spectre,1530,4GB,Intel Core i3,12.7,8.3,Khaki,Norway
+24,Female,Microsoft,847,8GB,Intel Core i7,13.2,14.7,Khaki,Sweden
+38,Female,Asus ZenBook,550,16GB,Intel Core i3,14.5,5.5,Maroon,France
+49,Male,Dell XPS,1639,16GB,Intel Core i3,14.2,9.2,Orange,Austria
+29,Male,HP Spectre,311,4GB,Intel Core i9,15.5,10.9,Pink,Portugal
+23,Female,MacBook Pro,1562,32GB,Intel Core i3,16.3,5.9,Mauv,Sweden
+60,Male,Lenovo ThinkPad,1305,4GB,Intel Core i9,10,8.9,Fuscia,Sweden
+49,Female,Lenovo ThinkPad,876,8GB,Intel Core i5,16.4,6.5,Aquamarine,France
+46,Female,MacBook Pro,1338,8GB,Intel Core i5,16.6,4.1,Purple,Ukraine
+45,Female,Asus ZenBook,1175,4GB,Intel Core i7,10,8,Mauv,Sweden
+37,Male,Microsoft,777,16GB,Intel Core i7,13.5,14.4,Violet,Sweden
+35,Male,Dell XPS,795,4GB,Intel Core i5,15.2,12.6,Pink,Portugal
+56,Male,Lenovo ThinkPad,656,8GB,Intel Core i5,11.6,5.8,Green,Hungary
+18,Male,MacBook Pro,961,16GB,Intel Core i3,10.2,12.1,Crimson,Sweden
+15,Female,Asus ZenBook,1933,4GB,Intel Core i9,11.2,4.3,Orange,Spain
+52,Female,MacBook Pro,627,8GB,Intel Core i7,13,10.7,Green,Ukraine
+45,Female,Dell XPS,1916,16GB,Intel Core i3,14.4,6.7,Yellow,Sweden
+15,Female,Lenovo ThinkPad,307,32GB,Intel Core i7,12.8,7.8,Green,France
+34,Male,Microsoft,372,4GB,Intel Core i5,15.9,14.7,Orange,Albania
+20,Female,Lenovo ThinkPad,415,4GB,Intel Core i3,15.1,10.2,Goldenrod,France
+14,Male,Asus ZenBook,1063,4GB,Intel Core i3,15.9,11.2,Violet,Greece
+55,Female,Dell XPS,870,32GB,Intel Core i3,16.4,12.5,Orange,Italy
+46,Male,Asus ZenBook,1004,8GB,Intel Core i9,14.2,11.5,Puce,Portugal
+16,Female,Dell XPS,760,32GB,Intel Core i7,16.5,10.2,Maroon,Spain
+52,Male,HP Spectre,861,32GB,Intel Core i5,12.5,7.3,Blue,France
+46,Male,Microsoft,859,4GB,Intel Core i3,15.6,15,Puce,Sweden
+42,Male,Dell XPS,397,8GB,Intel Core i5,13.1,7.1,Mauv,France
+22,Male,Dell XPS,264,4GB,Intel Core i7,11.7,6.4,Indigo,Ukraine
+40,Female,Dell XPS,1387,8GB,Intel Core i7,13.8,10.8,Mauv,Spain
+44,Female,MacBook Pro,1371,8GB,Intel Core i9,16.9,11.6,Mauv,France
+26,Female,Asus ZenBook,1025,32GB,Intel Core i9,16.6,9.9,Indigo,Sweden
+54,Male,Lenovo ThinkPad,624,32GB,Intel Core i5,14.9,11.2,Puce,Portugal
+16,Female,Asus ZenBook,411,16GB,Intel Core i3,15.9,14.1,Crimson,Portugal
+53,Male,MacBook Pro,428,16GB,Intel Core i5,12.1,15.2,Crimson,Greece
+57,Female,MacBook Pro,670,32GB,Intel Core i3,15.3,11.6,Maroon,Germany
+29,Female,Lenovo ThinkPad,1595,32GB,Intel Core i9,12.9,15.3,Purple,Sweden
+17,Male,HP Spectre,432,8GB,Intel Core i9,12.8,8.9,Goldenrod,Belgium
+29,Male,Microsoft,1012,16GB,Intel Core i7,15.4,12.1,Aquamarine,Albania
+48,Female,Dell XPS,1767,8GB,Intel Core i7,12.2,5,Red,Germany
+35,Male,Dell XPS,1322,16GB,Intel Core i7,14.2,5.6,Puce,Sweden
+26,Male,Lenovo ThinkPad,503,8GB,Intel Core i7,15.8,8.7,Fuscia,France
+25,Male,Dell XPS,514,16GB,Intel Core i5,12.1,5.6,Crimson,Greece
+40,Female,Lenovo ThinkPad,436,32GB,Intel Core i5,13.3,5.2,Violet,Ireland
+57,Female,Asus ZenBook,1992,32GB,Intel Core i9,13.5,10.1,Green,Serbia
+16,Male,Microsoft,1458,16GB,Intel Core i9,11.5,5.4,Teal,Portugal
+51,Male,MacBook Pro,348,32GB,Intel Core i9,10.4,13.2,Goldenrod,Ukraine
+37,Female,Asus ZenBook,929,8GB,Intel Core i5,14.2,5.3,Indigo,Sweden
+33,Male,Lenovo ThinkPad,1840,16GB,Intel Core i5,10.9,6.8,Purple,France
+52,Male,Dell XPS,521,4GB,Intel Core i9,15.6,5.7,Goldenrod,Portugal
+26,Male,HP Spectre,339,8GB,Intel Core i5,14.7,9.5,Indigo,United Kingdom
+34,Male,HP Spectre,319,16GB,Intel Core i9,12.6,4.3,Yellow,Italy
+57,Female,Lenovo ThinkPad,379,32GB,Intel Core i3,13.7,15.9,Turquoise,Portugal
+46,Female,Lenovo ThinkPad,503,16GB,Intel Core i9,11.4,12.6,Teal,France
+20,Male,HP Spectre,1582,8GB,Intel Core i9,15.1,15.9,Turquoise,France
+20,Male,MacBook Pro,1271,8GB,Intel Core i5,12.1,15,Purple,Portugal
+19,Male,HP Spectre,979,8GB,Intel Core i5,15.2,15.6,Blue,Sweden
+51,Male,Lenovo ThinkPad,1030,8GB,Intel Core i7,16.4,11.4,Yellow,Portugal
+53,Female,Lenovo ThinkPad,1037,4GB,Intel Core i3,11,5.9,Aquamarine,Sweden
+14,Male,Dell XPS,1328,8GB,Intel Core i7,12.3,4.9,Puce,Ukraine
+50,Male,MacBook Pro,1429,32GB,Intel Core i5,11.7,8.8,Indigo,Albania
+27,Male,HP Spectre,1347,16GB,Intel Core i3,10.4,5.3,Khaki,Albania
+41,Male,MacBook Pro,590,8GB,Intel Core i7,14.9,16,Fuscia,Ukraine
+60,Male,HP Spectre,1587,16GB,Intel Core i9,12.2,4.9,Fuscia,Switzerland
+15,Male,Microsoft,1194,8GB,Intel Core i5,13.6,11.6,Indigo,Sweden
+17,Female,Lenovo ThinkPad,1358,16GB,Intel Core i5,10.8,11.9,Crimson,Portugal
+57,Female,Asus ZenBook,1179,32GB,Intel Core i5,16.5,15,Mauv,Norway
+21,Male,HP Spectre,1405,16GB,Intel Core i5,16.6,12.6,Yellow,Ukraine
+41,Female,MacBook Pro,1005,16GB,Intel Core i9,15.3,8.4,Puce,Portugal
+28,Male,Dell XPS,1866,8GB,Intel Core i5,12.6,14.9,Puce,Sweden
+38,Male,MacBook Pro,1678,32GB,Intel Core i5,12.8,9.2,Mauv,France
+40,Female,Asus ZenBook,1612,32GB,Intel Core i7,14.4,12.8,Green,France
+57,Female,Microsoft,1613,4GB,Intel Core i9,11,11.9,Blue,France
+48,Male,MacBook Pro,1449,32GB,Intel Core i9,16.2,13.7,Aquamarine,Sweden
+60,Male,Asus ZenBook,1385,32GB,Intel Core i5,16,7.4,Indigo,Portugal
+31,Female,MacBook Pro,1610,32GB,Intel Core i3,10.6,5.4,Violet,Sweden
+51,Male,Asus ZenBook,1465,32GB,Intel Core i5,13.4,7.5,Crimson,Serbia
+33,Female,HP Spectre,365,16GB,Intel Core i9,16.4,7.9,Khaki,Portugal
+56,Female,Lenovo ThinkPad,1938,16GB,Intel Core i5,11.1,7.4,Goldenrod,Greece
+19,Female,Lenovo ThinkPad,872,16GB,Intel Core i5,11.6,5.6,Puce,Portugal
+18,Female,Lenovo ThinkPad,1066,4GB,Intel Core i9,10.9,12.3,Red,France
+22,Male,Dell XPS,1745,16GB,Intel Core i5,16.4,14.1,Crimson,Portugal
+23,Female,HP Spectre,467,8GB,Intel Core i5,10.6,11.5,Mauv,Sweden
+49,Female,Dell XPS,337,8GB,Intel Core i9,11.8,13.1,Aquamarine,Sweden
+23,Male,HP Spectre,1782,32GB,Intel Core i9,12.9,15.1,Pink,France
+52,Male,HP Spectre,830,4GB,Intel Core i7,12.1,7.2,Red,France
+25,Male,Asus ZenBook,1175,16GB,Intel Core i7,16.6,4.1,Violet,Germany
+36,Female,Microsoft,583,32GB,Intel Core i9,14.5,8.2,Crimson,Portugal
+44,Female,MacBook Pro,1274,8GB,Intel Core i9,16,14,Puce,France
+40,Female,HP Spectre,1186,4GB,Intel Core i9,11.6,5.5,Pink,United Kingdom
+22,Male,Dell XPS,1926,16GB,Intel Core i3,15.6,6.6,Pink,France
+35,Male,Asus ZenBook,1548,32GB,Intel Core i9,16.2,15,Fuscia,Portugal
+49,Male,HP Spectre,641,16GB,Intel Core i9,15.3,6.2,Violet,France
+34,Male,HP Spectre,806,32GB,Intel Core i3,10.7,14.6,Goldenrod,Portugal
+41,Male,Asus ZenBook,824,8GB,Intel Core i7,13.9,14.1,Aquamarine,Norway
+20,Female,Lenovo ThinkPad,1489,4GB,Intel Core i3,11.2,5,Khaki,France
+21,Male,HP Spectre,1627,32GB,Intel Core i3,13.3,4.7,Fuscia,France
+17,Female,Lenovo ThinkPad,1326,32GB,Intel Core i9,14.7,7.1,Green,Portugal
+31,Male,Dell XPS,990,16GB,Intel Core i3,14.7,13.4,Turquoise,France
+59,Female,HP Spectre,1822,4GB,Intel Core i7,12.6,6.9,Khaki,Serbia
+17,Male,Lenovo ThinkPad,1438,4GB,Intel Core i3,15.8,14.1,Puce,Greece
+44,Female,HP Spectre,1542,16GB,Intel Core i5,14.5,9.1,Khaki,France
+50,Female,HP Spectre,1876,4GB,Intel Core i5,10,5.1,Pink,Portugal
+54,Female,Dell XPS,992,16GB,Intel Core i9,14,7,Violet,Ukraine
+21,Female,MacBook Pro,1470,32GB,Intel Core i3,14,15,Green,Sweden
+47,Female,Lenovo ThinkPad,1162,8GB,Intel Core i3,17,7.7,Maroon,Sweden
+39,Female,MacBook Pro,1491,16GB,Intel Core i5,12.2,6,Turquoise,France
+39,Male,MacBook Pro,1332,16GB,Intel Core i3,12.1,6,Purple,Albania
+52,Male,MacBook Pro,553,16GB,Intel Core i9,10.5,4.5,Teal,Italy
+58,Female,Dell XPS,1352,4GB,Intel Core i3,12.5,10.8,Teal,Portugal
+54,Male,HP Spectre,1001,16GB,Intel Core i5,13.8,13.5,Fuscia,Sweden
+49,Female,MacBook Pro,1123,32GB,Intel Core i9,13.6,12.5,Violet,Portugal
+38,Male,Microsoft,1440,16GB,Intel Core i3,11,6.4,Violet,Norway
+39,Female,MacBook Pro,1814,4GB,Intel Core i7,16.4,10.8,Purple,Albania
+37,Female,MacBook Pro,1740,32GB,Intel Core i3,16.9,6.1,Purple,Ukraine
+35,Male,MacBook Pro,1899,4GB,Intel Core i9,13.4,11.9,Mauv,United Kingdom
+20,Male,HP Spectre,1552,32GB,Intel Core i3,16.3,14.6,Green,Greece
+49,Female,Microsoft,1750,4GB,Intel Core i7,16.6,9.6,Purple,Portugal
+48,Female,MacBook Pro,1174,16GB,Intel Core i9,14,5.2,Blue,France
+29,Female,HP Spectre,484,32GB,Intel Core i9,10.7,10.6,Violet,Portugal
+58,Male,Dell XPS,1963,4GB,Intel Core i7,13.8,5,Aquamarine,Ukraine
+57,Male,HP Spectre,432,8GB,Intel Core i5,14.9,16,Turquoise,France
+44,Male,Asus ZenBook,1965,4GB,Intel Core i3,15.3,10.8,Fuscia,Sweden
+49,Female,HP Spectre,1870,8GB,Intel Core i5,15.4,8.4,Goldenrod,Portugal
+60,Male,Dell XPS,1610,4GB,Intel Core i7,12.3,12,Pink,France
+60,Male,MacBook Pro,841,32GB,Intel Core i3,14.8,12.1,Maroon,Portugal
+45,Male,Dell XPS,1025,4GB,Intel Core i9,10.9,14.1,Aquamarine,Sweden
+48,Female,Lenovo ThinkPad,229,32GB,Intel Core i9,11.1,15.3,Indigo,France
+19,Female,Lenovo ThinkPad,1325,32GB,Intel Core i3,14.4,14.8,Mauv,Greece
+23,Female,Asus ZenBook,1910,8GB,Intel Core i5,14.5,13.8,Aquamarine,Sweden
+51,Female,Dell XPS,1853,8GB,Intel Core i3,14.1,14.3,Khaki,Portugal
+45,Male,Asus ZenBook,527,4GB,Intel Core i3,13.3,5.9,Fuscia,France
+47,Male,Dell XPS,1528,8GB,Intel Core i3,12.6,8.4,Yellow,France
+41,Female,Microsoft,1224,4GB,Intel Core i7,12.1,11.8,Pink,France
+31,Male,MacBook Pro,1859,32GB,Intel Core i7,13.7,7.7,Red,France
+37,Female,Lenovo ThinkPad,1976,8GB,Intel Core i3,14.9,5,Mauv,Portugal
+59,Male,MacBook Pro,362,8GB,Intel Core i7,10.6,9.1,Indigo,Portugal
+53,Male,Microsoft,643,8GB,Intel Core i5,14.3,7,Red,Sweden
+49,Male,Lenovo ThinkPad,1789,4GB,Intel Core i3,11.3,15.8,Red,France
+55,Female,MacBook Pro,1607,32GB,Intel Core i9,12.5,6.7,Indigo,Portugal
+16,Male,MacBook Pro,1773,16GB,Intel Core i9,15.5,5.9,Pink,Ukraine
+42,Female,Dell XPS,605,32GB,Intel Core i9,16.1,14.7,Indigo,Greece
+50,Female,Dell XPS,506,32GB,Intel Core i5,10.7,14.5,Yellow,Portugal
+36,Female,Lenovo ThinkPad,1601,8GB,Intel Core i3,10.1,6.3,Mauv,Ukraine
+27, Female,Lenovo ThinkPad,1271,32GB,Intel Core i9,12.1,12.6,Turquoise,Greece
+60,Female,MacBook Pro,1229,4GB,Intel Core i5,15.9,6.8,Indigo,France
+42,Male,HP Spectre,1735,32GB,Intel Core i3,16.5,4.7,Orange,Sweden
+17,Male,HP Spectre,1725,16GB,Intel Core i7,14.5,6.6,Fuscia,France
+39,Male,HP Spectre,1701,16GB,Intel Core i9,16,15.6,Turquoise,France
+59,Male,MacBook Pro,1497,32GB,Intel Core i7,12,11.3,Aquamarine,Germany
+36,Female,HP Spectre,1845,4GB,Intel Core i5,13.6,6.5,Turquoise,Serbia
+19,Female,Asus ZenBook,1183,4GB,Intel Core i3,14.8,6.5,Purple,Albania
+43,Male,HP Spectre,668,4GB,Intel Core i5,10.5,15.1,Pink,Ireland
+27,Female,Microsoft,1041,8GB,Intel Core i5,14.1,10.4,Aquamarine,Ukraine
+16,Male,Lenovo ThinkPad,1653,32GB,Intel Core i7,11.3,8.5,Crimson,Portugal
+22,Male,Asus ZenBook,1489,32GB,Intel Core i9,16.9,15.5,Orange,Ukraine
+41,Male,Asus ZenBook,1204,16GB,Intel Core i7,10.7,10.3,Turquoise,Germany
+44,Male,MacBook Pro,443,4GB,Intel Core i9,15.3,5,Orange,Ukraine
+56,Male,HP Spectre,1483,4GB,Intel Core i7,15.4,13.5,Puce,Portugal
+20,Male,HP Spectre,1206,8GB,Intel Core i5,12.8,13.4,Red,Portugal
+23,Female,MacBook Pro,1918,16GB,Intel Core i3,10.7,8.6,Goldenrod,Sweden
+35,Male,Microsoft,1703,16GB,Intel Core i3,15.6,6.7,Maroon,Ukraine
+51,Female,Asus ZenBook,879,4GB,Intel Core i7,14.1,12.8,Goldenrod,Portugal
+29,Female,Asus ZenBook,2000,4GB,Intel Core i5,15.8,7,Green,Serbia
+21,Female,HP Spectre,1155,16GB,Intel Core i7,15.4,10.3,Orange,Portugal
+24,Male,HP Spectre,1133,8GB,Intel Core i9,13.7,4.1,Violet,Ukraine
+28,Male,Lenovo ThinkPad,1459,32GB,Intel Core i5,15.1,9.9,Purple,Sweden
+34,Female,MacBook Pro,1891,4GB,Intel Core i3,13.6,4.7,Puce,France
+59,Male,Asus ZenBook,1843,4GB,Intel Core i7,12.2,14.1,Blue,Sweden
+30,Female,Dell XPS,1164,16GB,Intel Core i5,12.2,6.7,Blue,Greece
+24,Female,Lenovo ThinkPad,320,32GB,Intel Core i5,17,6,Yellow,Ukraine
+60,Male,Lenovo ThinkPad,467,16GB,Intel Core i5,12,7.2,Goldenrod,Sweden
+37,Male,MacBook Pro,1725,4GB,Intel Core i3,14.8,8.1,Orange,Ukraine
+24,Male,HP Spectre,1393,16GB,Intel Core i3,11.6,13.1,Teal,Portugal
+37,Female,Dell XPS,1416,8GB,Intel Core i9,13.9,8.3,Red,France
+49,Female,MacBook Pro,496,32GB,Intel Core i3,14.1,6.4,Khaki,Ireland
+24,Male,Dell XPS,1491,32GB,Intel Core i9,14.1,15.9,Maroon,Portugal
+20,Male,MacBook Pro,1297,8GB,Intel Core i9,10.1,4.4,Pink,Serbia
+19,Male,Dell XPS,507,16GB,Intel Core i9,11.8,13.2,Teal,France
+41,Male,Lenovo ThinkPad,959,16GB,Intel Core i7,11.6,6.4,Blue,Sweden
+20,Male,MacBook Pro,904,32GB,Intel Core i3,10.2,5,Turquoise,Ukraine
+32,Male,HP Spectre,861,4GB,Intel Core i9,10.2,8.3,Violet,France
+17,Male,MacBook Pro,607,16GB,Intel Core i9,11.8,12.1,Purple,Portugal
+50,Female,Microsoft,895,4GB,Intel Core i3,16.5,12.3,Maroon,Denmark
+31,Male,MacBook Pro,278,4GB,Intel Core i5,11.6,14.5,Teal,Sweden
+48,Female,HP Spectre,448,32GB,Intel Core i5,13.6,14.7,Fuscia,France
+58,Female,Asus ZenBook,970,32GB,Intel Core i7,12.7,6.2,Khaki,Norway
+57,Male,MacBook Pro,413,8GB,Intel Core i3,15.1,15.1,Blue,Greece
+35,Female,Dell XPS,1528,4GB,Intel Core i9,16.7,7.4,Puce,Sweden
+40,Male,Dell XPS,336,4GB,Intel Core i3,13.6,4.9,Red,Sweden
+48,Female,Microsoft,1099,4GB,Intel Core i3,11.5,14.1,Blue,Ukraine
+45,Female,HP Spectre,664,16GB,Intel Core i9,13.7,13.7,Turquoise,Portugal
+50,Female,Asus ZenBook,1431,32GB,Intel Core i9,14.4,5.6,Red,France
+52,Female,Lenovo ThinkPad,353,32GB,Intel Core i5,15.1,6.2,Blue,Sweden
+38,Male,HP Spectre,1326,32GB,Intel Core i5,15.7,13.7,Teal,Ukraine
+33,Female,Lenovo ThinkPad,1909,8GB,Intel Core i5,15.7,6.3,Puce,Sweden
+58,Female,Lenovo ThinkPad,342,8GB,Intel Core i9,11.3,10.2,Turquoise,Greece
+53,Male,Asus ZenBook,1927,8GB,Intel Core i3,14.3,5.6,Pink,Portugal
+36,Male,Lenovo ThinkPad,505,4GB,Intel Core i9,13.7,5,Indigo,Portugal
+52,Male,Dell XPS,254,16GB,Intel Core i7,10.2,10.3,Crimson,Portugal
+14, Female,Asus ZenBook,372,8GB,Intel Core i9,13.7,10.9,Aquamarine,Sweden
+16,Female,Lenovo ThinkPad,761,8GB,Intel Core i3,10.7,15.5,Khaki,Portugal
+50,Female,Microsoft,683,4GB,Intel Core i3,16.1,12.4,Pink,Sweden
+21,Male,MacBook Pro,1842,32GB,Intel Core i9,14.4,8.1,Teal,Denmark
+56,Female,Dell XPS,1403,8GB,Intel Core i9,15.5,14.4,Pink,Ukraine
+17,Male,Lenovo ThinkPad,334,4GB,Intel Core i3,12.7,8.1,Maroon,Portugal
+49,Female,HP Spectre,1372,4GB,Intel Core i5,11.4,13.2,Crimson,France
+34,Male,HP Spectre,755,8GB,Intel Core i9,13.6,13.9,Fuscia,Greece
+36,Male,HP Spectre,1371,16GB,Intel Core i3,15.9,8.9,Orange,Sweden
+57,Female,Dell XPS,659,32GB,Intel Core i5,15.1,4.4,Puce,Sweden
+34,Female,HP Spectre,504,4GB,Intel Core i7,15.8,15.8,Puce,Serbia
+34,Male,Asus ZenBook,1685,8GB,Intel Core i3,14.7,5.8,Pink,Ukraine
+18,Female,Asus ZenBook,356,4GB,Intel Core i7,13.6,12.3,Green,Ukraine
+14,Male,Asus ZenBook,1376,8GB,Intel Core i3,16.8,6.4,Blue,Greece
+49,Male,MacBook Pro,899,32GB,Intel Core i5,10.3,4.8,Yellow,Portugal
+18,Female,HP Spectre,1001,4GB,Intel Core i9,14.9,11.5,Red,Portugal
+36,Male,Asus ZenBook,1271,16GB,Intel Core i3,11.7,15.5,Violet,France
+46,Male,HP Spectre,801,32GB,Intel Core i7,10.4,10.3,Crimson,Ukraine
+37,Female,MacBook Pro,1356,16GB,Intel Core i9,13.8,11,Khaki,Sweden
+40,Female,Asus ZenBook,1831,4GB,Intel Core i3,16.1,14.4,Green,Sweden
+29,Male,HP Spectre,1954,4GB,Intel Core i9,12.6,5,Turquoise,Albania
+49,Male,Dell XPS,586,8GB,Intel Core i3,11.1,8.5,Fuscia,Ukraine
+19,Male,HP Spectre,939,32GB,Intel Core i3,14.8,7.3,Yellow,Norway
+49,Male,MacBook Pro,1118,16GB,Intel Core i3,16.7,11.5,Khaki,Sweden
+48,Male,MacBook Pro,865,8GB,Intel Core i5,13.5,9.2,Khaki,Portugal
+23,Male,Lenovo ThinkPad,764,16GB,Intel Core i5,14.1,12.8,Green,Sweden
+57,Male,Microsoft,497,32GB,Intel Core i3,15.5,14.9,Goldenrod,Greece
+24,Male,Asus ZenBook,1953,8GB,Intel Core i7,11,5.8,Crimson,Ukraine
+21,Male,Dell XPS,1860,8GB,Intel Core i9,10,11.2,Orange,France
+52,Female,Lenovo ThinkPad,925,32GB,Intel Core i7,16.9,7.3,Aquamarine,United Kingdom
+23,Female,Dell XPS,1491,32GB,Intel Core i3,10.9,13.3,Maroon,Kosovo
+23,Female,Asus ZenBook,916,16GB,Intel Core i3,15,7.6,Goldenrod,Portugal
+50,Male,Asus ZenBook,1475,32GB,Intel Core i5,16.8,15,Purple,Portugal
+23,Female,Microsoft,1311,32GB,Intel Core i9,12,9.9,Mauv,Portugal
+36,Female,Microsoft,445,32GB,Intel Core i9,15.9,7.6,Khaki,Ukraine
+29,Female,Dell XPS,756,4GB,Intel Core i3,13.8,14.6,Red,Sweden
+25,Female,Dell XPS,342,4GB,Intel Core i5,14.8,7,Maroon,France
+45,Male,HP Spectre,1184,8GB,Intel Core i3,11.3,13.5,Red,Sweden
+25,Female,Microsoft,1954,8GB,Intel Core i3,14.4,12.1,Yellow,Sweden
+17,Female,Asus ZenBook,1855,4GB,Intel Core i3,16.4,13.8,Crimson,Greece
+33,Female,Asus ZenBook,1959,32GB,Intel Core i7,13.6,13.9,Indigo,Serbia
+42,Male,Lenovo ThinkPad,833,4GB,Intel Core i3,10.1,5.2,Green,France
+16,Female,Asus ZenBook,1504,4GB,Intel Core i9,16,7.1,Blue,France
+47,Female,MacBook Pro,1790,32GB,Intel Core i3,12.7,4.4,Crimson,France
+34,Male,Microsoft,278,4GB,Intel Core i3,16.3,9.9,Pink,France
+55,Male,Lenovo ThinkPad,732,8GB,Intel Core i5,14.1,6.5,Fuscia,Portugal
+19,Female,MacBook Pro,639,4GB,Intel Core i3,15.5,12,Goldenrod,Sweden
+27,Female,Dell XPS,1066,32GB,Intel Core i5,16.4,7.7,Goldenrod,France
+34,Male,MacBook Pro,1649,32GB,Intel Core i7,16.3,11.5,Teal,Sweden
+47,Male,Microsoft,395,8GB,Intel Core i5,13.1,4.8,Aquamarine,Sweden
+36,Male,Dell XPS,201,4GB,Intel Core i7,16.4,11.4,Indigo,Sweden
+23,Male,HP Spectre,1839,4GB,Intel Core i7,16.4,13.3,Mauv,Portugal
+53,Male,HP Spectre,847,4GB,Intel Core i9,12.4,11.3,Purple,Denmark
+17,Male,HP Spectre,1687,4GB,Intel Core i5,14.6,13.4,Blue,Ukraine
+47,Female,Microsoft,1007,32GB,Intel Core i9,15.5,6.8,Fuscia,Portugal
+51, Female,Asus ZenBook,1457,4GB,Intel Core i9,16.4,10.2,Teal,Portugal
+17,Female,Asus ZenBook,598,16GB,Intel Core i7,13.7,10.4,Turquoise,Ukraine
+25,Female,Lenovo ThinkPad,1160,16GB,Intel Core i5,13.1,10.8,Blue,France
+20,Female,Dell XPS,1576,8GB,Intel Core i9,12.8,6.1,Yellow,Portugal
+56,Female,Lenovo ThinkPad,1662,16GB,Intel Core i7,13.6,15.7,Yellow,Ireland
+52, Female,MacBook Pro,620,8GB,Intel Core i3,10.7,12.5,Orange,Portugal
+15,Male,HP Spectre,1716,16GB,Intel Core i7,14.8,9.9,Aquamarine,Portugal
+29,Male,Asus ZenBook,773,32GB,Intel Core i7,10.2,6.7,Orange,Albania
+50,Female,Lenovo ThinkPad,847,4GB,Intel Core i7,12.1,10.4,Yellow,Sweden
+29,Male,Lenovo ThinkPad,1046,32GB,Intel Core i3,14.9,13.9,Turquoise,Sweden
+37,Male,Dell XPS,1971,4GB,Intel Core i5,16.3,12.9,Red,France
+19,Female,MacBook Pro,804,8GB,Intel Core i9,10.3,5.2,Pink,Portugal
+53,Male,Asus ZenBook,1433,4GB,Intel Core i7,14.6,12.8,Aquamarine,Greece
+43,Male,MacBook Pro,1769,4GB,Intel Core i5,11,9.1,Orange,Portugal
+29,Female,Asus ZenBook,484,32GB,Intel Core i5,12.6,4.8,Maroon,Sweden
+23,Male,MacBook Pro,1646,16GB,Intel Core i5,15.2,14.9,Green,Germany
+53,Female,Dell XPS,1094,4GB,Intel Core i5,14.4,4.5,Violet,Portugal
+46,Female,Microsoft,1664,8GB,Intel Core i3,14.1,10.1,Puce,Portugal
+19,Male,Microsoft,955,32GB,Intel Core i5,11,15.3,Goldenrod,Germany
+53,Female,Lenovo ThinkPad,246,32GB,Intel Core i7,11.4,14.3,Khaki,Greece
+51,Male,Microsoft,1237,16GB,Intel Core i5,14.4,15.7,Indigo,Portugal
+51,Male,Asus ZenBook,1979,32GB,Intel Core i7,13.1,15.8,Mauv,Portugal
+28,Female,Lenovo ThinkPad,395,16GB,Intel Core i3,14.7,10,Turquoise,France
+24,Female,HP Spectre,449,4GB,Intel Core i3,12.9,15.2,Yellow,Sweden
+23,Male,Microsoft,478,4GB,Intel Core i9,13.3,6.7,Orange,France
+33,Male,Lenovo ThinkPad,239,32GB,Intel Core i3,11.2,11.2,Crimson,France
+46,Male,Lenovo ThinkPad,991,32GB,Intel Core i7,14.2,15.4,Pink,Portugal
+15,Male,MacBook Pro,642,16GB,Intel Core i9,14.4,14,Teal,Denmark
+48,Female,Asus ZenBook,969,8GB,Intel Core i3,10.3,12.2,Mauv,Sweden
+36,Male,Lenovo ThinkPad,1930,8GB,Intel Core i5,14.3,4.7,Green,Albania
+51,Male,Asus ZenBook,435,8GB,Intel Core i3,16.3,13.9,Maroon,Portugal
+33,Male,MacBook Pro,1604,4GB,Intel Core i7,11.2,15.7,Crimson,France
+39,Male,HP Spectre,1912,4GB,Intel Core i7,11.2,7.9,Indigo,Portugal
+16,Male,Asus ZenBook,1226,4GB,Intel Core i9,12.5,7.2,Orange,Ukraine
+52,Male,Lenovo ThinkPad,1519,32GB,Intel Core i9,14.3,9.3,Pink,France
+53,Female,HP Spectre,302,32GB,Intel Core i7,12.4,7.1,Mauv,Portugal
+54,Male,Microsoft,825,16GB,Intel Core i7,12.6,14.7,Purple,Portugal
+32,Male,Microsoft,1711,8GB,Intel Core i5,13.4,7.1,Turquoise,Albania
+43,Male,Dell XPS,1521,4GB,Intel Core i3,15.2,13.1,Aquamarine,Sweden
+58,Female,MacBook Pro,748,32GB,Intel Core i7,14.3,14.2,Goldenrod,Sweden
+15,Male,Dell XPS,846,32GB,Intel Core i9,13,7.9,Blue,Sweden
+20,Female,Asus ZenBook,509,32GB,Intel Core i7,16,5.9,Violet,Sweden
+32,Male,Microsoft,817,32GB,Intel Core i7,14,8.5,Purple,Portugal
+34,Male,MacBook Pro,309,8GB,Intel Core i3,15.7,13.5,Fuscia,France
+41,Female,MacBook Pro,1756,16GB,Intel Core i9,16.6,14,Mauv,Greece
+19,Female,Dell XPS,1459,8GB,Intel Core i5,13,6.6,Turquoise,Denmark
+48,Male,MacBook Pro,206,32GB,Intel Core i7,13.9,8.1,Crimson,Sweden
+46,Female,Asus ZenBook,527,4GB,Intel Core i9,16.2,13.1,Yellow,Portugal
+50,Male,Asus ZenBook,1267,4GB,Intel Core i7,15.4,15.6,Yellow,Sweden
+60,Male,Microsoft,568,8GB,Intel Core i7,12,11.2,Khaki,Portugal
+56,Male,HP Spectre,1404,8GB,Intel Core i9,12.3,12.6,Maroon,Germany
+23,Male,HP Spectre,1585,32GB,Intel Core i7,16.3,11,Blue,Belgium
+32,Male,Microsoft,1154,16GB,Intel Core i9,14.9,6.6,Turquoise,Portugal
+22,Male,Lenovo ThinkPad,629,8GB,Intel Core i5,14,15.9,Turquoise,Portugal
+47,Female,Lenovo ThinkPad,558,8GB,Intel Core i3,15.7,12.4,Mauv,Germany
+59,Male,Lenovo ThinkPad,229,8GB,Intel Core i5,12.2,11.6,Violet,Ireland
+49,Male,Microsoft,350,32GB,Intel Core i7,15.9,5.4,Indigo,Portugal
+19,Female,MacBook Pro,1935,16GB,Intel Core i9,11.8,11.7,Pink,Portugal
+60,Male,Dell XPS,626,32GB,Intel Core i5,15.6,8.6,Aquamarine,Germany
+55,Female,Asus ZenBook,891,8GB,Intel Core i3,11.7,6.5,Teal,Portugal
+59,Male,MacBook Pro,641,8GB,Intel Core i7,16,9.8,Fuscia,Sweden
+32,Male,HP Spectre,213,32GB,Intel Core i5,14.8,14.2,Violet,Norway
+30,Female,Microsoft,1872,8GB,Intel Core i7,14.7,10.3,Fuscia,Ukraine
+34,Male,Lenovo ThinkPad,216,4GB,Intel Core i3,15.1,13.3,Fuscia,Sweden
+54,Female,HP Spectre,1517,8GB,Intel Core i7,13.5,8.7,Blue,Norway
+16, Female,MacBook Pro,894,16GB,Intel Core i5,11.5,14.2,Purple,France
+32,Male,Microsoft,1624,4GB,Intel Core i7,14.2,13.4,Crimson,Hungary
+34,Female,Lenovo ThinkPad,937,32GB,Intel Core i3,10.5,7.9,Khaki,Albania
+46,Female,Dell XPS,703,16GB,Intel Core i9,13.5,11.4,Blue,Portugal
+27,Female,HP Spectre,738,32GB,Intel Core i5,15.7,10.7,Teal,Portugal
+23,Female,HP Spectre,1508,8GB,Intel Core i5,16.4,9.6,Turquoise,Albania
+23,Female,Microsoft,837,4GB,Intel Core i5,14.4,6.1,Puce,France
+29,Male,MacBook Pro,1333,16GB,Intel Core i7,15.4,8.3,Yellow,Greece
+18,Female,Microsoft,1470,4GB,Intel Core i7,11.1,8.7,Violet,Sweden
+41,Male,Dell XPS,1618,4GB,Intel Core i9,10.2,6.6,Khaki,Sweden
+14,Female,HP Spectre,239,8GB,Intel Core i5,15.5,14.8,Purple,Portugal
+18,Male,Microsoft,1786,16GB,Intel Core i5,13.3,10.9,Khaki,Belgium
+34,Female,MacBook Pro,473,4GB,Intel Core i3,16.3,10,Crimson,Sweden
+53,Female,Asus ZenBook,743,4GB,Intel Core i9,12.2,4.7,Indigo,Spain
+53,Male,Microsoft,766,16GB,Intel Core i5,14.9,8.3,Pink,France
+33,Female,HP Spectre,511,8GB,Intel Core i3,16.4,13.8,Mauv,Ukraine
+50,Male,Lenovo ThinkPad,934,8GB,Intel Core i3,15.9,7.6,Red,Greece
+34,Female,Lenovo ThinkPad,1054,8GB,Intel Core i3,11.3,7.4,Pink,France
+37,Female,Lenovo ThinkPad,1674,4GB,Intel Core i7,11.4,11.3,Maroon,France
+23,Female,Lenovo ThinkPad,220,16GB,Intel Core i7,10.9,6.1,Goldenrod,France
+40,Female,Asus ZenBook,1399,8GB,Intel Core i7,16.3,7.6,Orange,Sweden
+56,Female,Lenovo ThinkPad,376,16GB,Intel Core i9,13.9,10,Green,France
+41,Female,Lenovo ThinkPad,663,4GB,Intel Core i3,15.3,10.4,Aquamarine,Portugal
+18,Male,Microsoft,1438,16GB,Intel Core i7,10.3,5.2,Puce,Serbia
+15,Male,Lenovo ThinkPad,1307,4GB,Intel Core i9,13,10.8,Puce,Portugal
+37,Female,Dell XPS,1413,8GB,Intel Core i3,10.5,13.1,Mauv,Greece
+33,Male,Microsoft,850,32GB,Intel Core i5,13.9,8,Maroon,Ukraine
+56,Female,Microsoft,755,8GB,Intel Core i9,16.3,7.4,Violet,France
+37,Male,HP Spectre,1654,4GB,Intel Core i7,15.8,10.3,Yellow,Ireland
+49,Female,Dell XPS,1987,16GB,Intel Core i7,16.9,5.4,Aquamarine,Portugal
+44,Male,MacBook Pro,1040,4GB,Intel Core i7,12.1,11.9,Indigo,Denmark
+57,Female,MacBook Pro,1705,4GB,Intel Core i9,10.3,7.1,Puce,Sweden
+14,Female,Dell XPS,1099,32GB,Intel Core i5,15.4,15.7,Khaki,Portugal
+50,Male,MacBook Pro,1153,8GB,Intel Core i9,10.7,8,Khaki,Portugal
+40,Male,HP Spectre,1796,16GB,Intel Core i3,12.3,13.8,Green,Portugal
+18,Female,Lenovo ThinkPad,567,16GB,Intel Core i9,10,7.3,Mauv,Portugal
+56,Male,HP Spectre,686,32GB,Intel Core i7,10.4,7.1,Green,Portugal
+40,Female,Lenovo ThinkPad,383,32GB,Intel Core i9,10.2,13.8,Violet,Sweden
+53,Male,Lenovo ThinkPad,1005,32GB,Intel Core i5,14.5,8.6,Pink,Greece
+28,Female,HP Spectre,1725,16GB,Intel Core i7,11.6,14.1,Indigo,France
+48,Male,Microsoft,465,32GB,Intel Core i7,15.6,14.8,Mauv,Ukraine
+55,Female,Dell XPS,1217,16GB,Intel Core i7,10.9,7.1,Mauv,France
+19,Male,HP Spectre,237,4GB,Intel Core i9,11,5.6,Crimson,Ireland
+52,Male,Dell XPS,1713,4GB,Intel Core i9,14.2,7.7,Purple,Sweden
+15,Female,MacBook Pro,1272,4GB,Intel Core i7,10.5,10.3,Green,Sweden
+46,Male,Asus ZenBook,949,32GB,Intel Core i5,12.4,10.2,Khaki,Sweden
+50,Female,Lenovo ThinkPad,1891,16GB,Intel Core i7,16.3,14.6,Pink,Ukraine
+19,Male,Dell XPS,244,4GB,Intel Core i3,10.7,9,Violet,Portugal
+55,Male,Lenovo ThinkPad,1747,16GB,Intel Core i5,11.2,9.5,Crimson,France
+39,Female,HP Spectre,1950,32GB,Intel Core i9,13.7,13.2,Violet,Portugal
+26, Female,Lenovo ThinkPad,1874,8GB,Intel Core i5,13.8,4.7,Purple,Portugal
+45,Female,Asus ZenBook,1749,32GB,Intel Core i5,12,6.9,Blue,Spain
+56,Female,Lenovo ThinkPad,810,4GB,Intel Core i5,16.5,6.9,Orange,France
+20,Male,HP Spectre,1497,16GB,Intel Core i7,13.8,9.8,Goldenrod,Ukraine
+19,Male,HP Spectre,1674,16GB,Intel Core i9,12.2,7.7,Crimson,Kosovo
+17,Male,Asus ZenBook,443,16GB,Intel Core i7,10.6,5.9,Red,Ukraine
+15,Male,MacBook Pro,1842,32GB,Intel Core i3,13.1,9.8,Puce,Norway
+50,Male,MacBook Pro,832,32GB,Intel Core i9,13.8,12.7,Pink,Portugal
+42,Male,Asus ZenBook,1574,8GB,Intel Core i5,11.6,13.2,Khaki,United Kingdom
+25,Male,Lenovo ThinkPad,1227,16GB,Intel Core i3,12.2,8.4,Teal,Ukraine
+59,Female,HP Spectre,456,4GB,Intel Core i9,13.2,9,Red,Greece
+29,Male,Asus ZenBook,1977,8GB,Intel Core i5,16.8,6,Blue,Spain
+60,Male,Lenovo ThinkPad,1406,8GB,Intel Core i9,11.2,7.5,Green,Norway
+41,Male,Asus ZenBook,1949,8GB,Intel Core i7,10.7,12,Khaki,France
+53,Female,Lenovo ThinkPad,1782,32GB,Intel Core i5,12.2,7.4,Turquoise,Portugal
+24,Male,Lenovo ThinkPad,730,32GB,Intel Core i7,13.8,10.2,Purple,France
+37,Female,Asus ZenBook,493,16GB,Intel Core i3,11.7,4.6,Goldenrod,Serbia
+55,Male,MacBook Pro,1050,4GB,Intel Core i9,16.5,14.2,Red,Spain
+39,Female,Asus ZenBook,298,16GB,Intel Core i5,12,4.6,Orange,Sweden
+57,Female,HP Spectre,1777,16GB,Intel Core i9,13.9,14.8,Puce,France
+38,Female,Lenovo ThinkPad,1717,16GB,Intel Core i9,13.6,6,Maroon,Greece
+57,Female,Dell XPS,1330,8GB,Intel Core i7,12.5,14.6,Maroon,Norway
+21,Female,Microsoft,1513,4GB,Intel Core i9,15,12.9,Aquamarine,Greece
+30,Male,MacBook Pro,650,4GB,Intel Core i9,12.5,12.7,Green,France
+19,Male,Dell XPS,1674,32GB,Intel Core i5,14.7,13.2,Red,Germany
+30,Male,Dell XPS,1867,16GB,Intel Core i9,16.6,9.9,Khaki,Portugal
+24,Male,HP Spectre,1632,16GB,Intel Core i3,11.6,8.6,Purple,Sweden
+55,Female,Asus ZenBook,1379,32GB,Intel Core i5,11.1,14.9,Aquamarine,Hungary
+41,Female,Microsoft,1968,4GB,Intel Core i5,16.2,15.8,Crimson,Sweden
+55,Male,Asus ZenBook,1039,32GB,Intel Core i5,13,6.8,Red,Denmark
+27,Male,Asus ZenBook,482,4GB,Intel Core i5,16.7,4.9,Orange,Ukraine
+26,Male,MacBook Pro,1337,4GB,Intel Core i7,13.6,10.3,Indigo,France
+39,Female,Lenovo ThinkPad,1486,4GB,Intel Core i3,11.9,4.5,Puce,Portugal
+15,Male,Microsoft,876,32GB,Intel Core i9,16.8,4.8,Red,Sweden
+41,Male,HP Spectre,736,8GB,Intel Core i5,10.8,14.1,Puce,France
+30,Female,HP Spectre,1564,8GB,Intel Core i7,11.4,11.1,Fuscia,Portugal
+27,Female,Lenovo ThinkPad,217,4GB,Intel Core i3,12.7,10.4,Aquamarine,Sweden
+56,Female,Dell XPS,438,16GB,Intel Core i5,13.1,4.7,Crimson,Ukraine
+14,Male,Lenovo ThinkPad,1924,16GB,Intel Core i5,14.3,5.6,Purple,Albania
+44,Male,Lenovo ThinkPad,816,32GB,Intel Core i9,13.7,7.3,Goldenrod,Ukraine
+53,Female,Dell XPS,1230,32GB,Intel Core i3,11.4,15,Red,Sweden
+30,Male,Dell XPS,1589,32GB,Intel Core i3,13.7,5.9,Violet,Portugal
+14,Male,Asus ZenBook,1681,32GB,Intel Core i5,10.4,14.5,Maroon,France
+58,Female,MacBook Pro,1883,16GB,Intel Core i7,10.2,7.5,Green,Ukraine
+59,Male,MacBook Pro,1549,8GB,Intel Core i5,16.1,15.9,Puce,Greece
+45,Male,Lenovo ThinkPad,1396,8GB,Intel Core i7,16.9,7.6,Indigo,Greece
+57,Female,Microsoft,1239,16GB,Intel Core i7,13.1,13.6,Puce,France
+42,Male,Asus ZenBook,677,32GB,Intel Core i7,14.2,8.8,Teal,Portugal
+40,Male,Lenovo ThinkPad,1377,4GB,Intel Core i7,13,15.6,Blue,Portugal
+57,Male,Lenovo ThinkPad,338,32GB,Intel Core i7,16.6,8.9,Indigo,Portugal
+57,Female,Asus ZenBook,996,8GB,Intel Core i5,10.5,8.9,Red,France
+23,Female,Dell XPS,391,16GB,Intel Core i5,15.8,7.7,Maroon,France
+47,Female,MacBook Pro,447,8GB,Intel Core i5,16,13.2,Yellow,United Kingdom
+38, Female,Asus ZenBook,1212,8GB,Intel Core i3,11.7,10.9,Purple,France
+41,Male,Lenovo ThinkPad,1926,32GB,Intel Core i7,14.8,15.8,Turquoise,France
+32,Female,Asus ZenBook,376,32GB,Intel Core i9,12.2,13.7,Turquoise,Greece
+21,Female,Microsoft,1958,16GB,Intel Core i9,14,8.4,Crimson,Ukraine
+53,Male,MacBook Pro,514,16GB,Intel Core i5,11.6,11.9,Violet,Ukraine
+18,Male,Asus ZenBook,1379,4GB,Intel Core i9,16.7,10.6,Blue,Portugal
+59,Female,HP Spectre,838,32GB,Intel Core i5,11.8,5.8,Purple,France
+23,Female,Microsoft,351,8GB,Intel Core i7,11.3,9.2,Teal,France
+15, Female,Asus ZenBook,1952,4GB,Intel Core i7,11,12.5,Khaki,France
+38,Male,Asus ZenBook,549,8GB,Intel Core i9,16.3,13.9,Yellow,Sweden
+34,Female,HP Spectre,502,16GB,Intel Core i5,12.5,6.3,Orange,Sweden
+32,Male,Dell XPS,479,8GB,Intel Core i3,16.1,8.6,Orange,Greece
+15,Male,Lenovo ThinkPad,735,8GB,Intel Core i5,11.9,10.5,Red,Serbia
+37,Male,Dell XPS,237,32GB,Intel Core i9,10.8,8,Aquamarine,Norway
+23,Male,HP Spectre,1322,4GB,Intel Core i3,15.5,8.7,Yellow,Serbia
+36,Male,Microsoft,1065,32GB,Intel Core i7,13.5,7.9,Goldenrod,Germany
+37,Male,Lenovo ThinkPad,1166,8GB,Intel Core i5,12.4,11.8,Indigo,Spain
+44,Female,Microsoft,1640,4GB,Intel Core i3,17,10.2,Pink,Greece
+34,Female,Microsoft,1836,16GB,Intel Core i3,10.3,11.6,Orange,Greece
+55,Female,Microsoft,1313,8GB,Intel Core i9,11.4,11.5,Green,Portugal
+32,Male,Dell XPS,1139,16GB,Intel Core i9,11.9,10.4,Red,France
+53,Female,Lenovo ThinkPad,1422,16GB,Intel Core i3,10.3,8,Violet,Sweden
+52,Male,HP Spectre,595,8GB,Intel Core i5,11.6,4.6,Mauv,France
+43,Male,Lenovo ThinkPad,1385,32GB,Intel Core i3,12.6,4.6,Red,Ukraine
+25,Male,Dell XPS,1264,16GB,Intel Core i3,13.6,14.6,Fuscia,Ukraine
+48,Female,MacBook Pro,1201,4GB,Intel Core i3,15.7,12.3,Fuscia,Spain
+45,Male,Asus ZenBook,358,16GB,Intel Core i9,11.1,4.9,Aquamarine,Ireland
+24,Female,MacBook Pro,1565,32GB,Intel Core i3,14.1,5.8,Red,Sweden
+48,Male,Lenovo ThinkPad,1698,16GB,Intel Core i5,14,7.1,Purple,Spain
+39,Male,Microsoft,343,16GB,Intel Core i9,12.2,7.2,Purple,Ireland
+42,Male,MacBook Pro,1366,4GB,Intel Core i9,11.3,7.1,Khaki,Greece
+35,Male,Lenovo ThinkPad,1738,8GB,Intel Core i7,11.5,5.8,Green,Portugal
+20,Female,Lenovo ThinkPad,787,16GB,Intel Core i7,12.8,12.4,Orange,France
+34,Female,Dell XPS,1618,8GB,Intel Core i9,12,5.7,Goldenrod,Portugal
+58,Female,Lenovo ThinkPad,497,8GB,Intel Core i5,12.3,14.3,Crimson,Greece
+27,Female,MacBook Pro,1478,4GB,Intel Core i5,16.6,6.4,Khaki,Serbia
+17,Female,Lenovo ThinkPad,318,16GB,Intel Core i3,12.7,5,Mauv,Ukraine
+14,Male,Dell XPS,272,4GB,Intel Core i7,15.6,14.6,Blue,Portugal
+14,Male,Microsoft,919,32GB,Intel Core i7,12.9,6.5,Goldenrod,Greece
+57,Female,Dell XPS,1721,8GB,Intel Core i7,16.3,6.9,Red,Germany
+25,Female,Dell XPS,964,32GB,Intel Core i5,16.8,4.9,Goldenrod,Greece
+33,Male,Lenovo ThinkPad,1118,16GB,Intel Core i3,13.9,11,Fuscia,Sweden
+47,Female,HP Spectre,1418,32GB,Intel Core i9,13.4,13.8,Pink,Portugal
+17,Female,HP Spectre,1090,16GB,Intel Core i7,13.4,6.2,Maroon,Portugal
+55,Female,HP Spectre,801,4GB,Intel Core i5,10.8,13.5,Blue,Portugal
+44,Male,Asus ZenBook,943,16GB,Intel Core i5,12.8,6.4,Maroon,Portugal
+27,Female,MacBook Pro,1541,16GB,Intel Core i5,11.1,15.5,Yellow,Portugal
+43,Female,Asus ZenBook,247,32GB,Intel Core i5,12.3,15.5,Blue,Portugal
+32,Male,Asus ZenBook,1815,8GB,Intel Core i3,13.1,9.9,Aquamarine,Greece
+58,Male,Lenovo ThinkPad,664,32GB,Intel Core i3,15.9,14.4,Violet,France
+15,Male,Lenovo ThinkPad,866,16GB,Intel Core i5,16,7.7,Aquamarine,Portugal
+15,Male,Asus ZenBook,1535,4GB,Intel Core i5,12.8,15.2,Puce,Greece
+55,Female,Asus ZenBook,1179,8GB,Intel Core i7,16,7.7,Turquoise,France
+35,Female,HP Spectre,1092,32GB,Intel Core i5,14.6,10.1,Indigo,Portugal
+33,Male,MacBook Pro,1217,32GB,Intel Core i7,10.4,11.3,Yellow,Sweden
+16,Male,Microsoft,804,16GB,Intel Core i3,16.3,11,Yellow,Sweden
+30,Male,Dell XPS,543,16GB,Intel Core i5,11.2,10.4,Orange,Serbia
+48,Male,Lenovo ThinkPad,294,16GB,Intel Core i5,10.6,8.8,Khaki,Norway
+27,Male,Lenovo ThinkPad,823,32GB,Intel Core i5,13.1,13.7,Violet,Portugal
+39,Male,Dell XPS,1957,32GB,Intel Core i7,10,8.3,Purple,Ireland
+31,Male,Dell XPS,1479,8GB,Intel Core i3,13.4,13.3,Teal,Portugal
+18,Male,Microsoft,773,4GB,Intel Core i3,13.2,14.9,Orange,Sweden
+42,Male,HP Spectre,1161,16GB,Intel Core i5,10.8,11.6,Khaki,Portugal
+25,Male,Dell XPS,298,8GB,Intel Core i7,14.3,12.5,Teal,Albania
+23,Female,MacBook Pro,624,4GB,Intel Core i5,12.3,5.4,Khaki,Greece
+59,Male,Dell XPS,875,16GB,Intel Core i9,11.2,14.5,Violet,Germany
+53,Female,Microsoft,1467,16GB,Intel Core i3,14.2,14.2,Blue,Austria
+36,Male,Dell XPS,603,32GB,Intel Core i9,13,12.8,Orange,Portugal
+45,Female,Lenovo ThinkPad,466,8GB,Intel Core i5,11,14.4,Yellow,France
+21,Male,Asus ZenBook,1666,32GB,Intel Core i9,12.5,9,Green,Portugal
+23,Male,MacBook Pro,1973,16GB,Intel Core i3,11.3,7.5,Orange,Denmark
+14,Male,MacBook Pro,1907,8GB,Intel Core i3,16.8,4.4,Pink,France
+20,Female,HP Spectre,374,8GB,Intel Core i7,16.2,6.9,Crimson,Greece
+35,Male,Lenovo ThinkPad,468,32GB,Intel Core i9,11.8,12.6,Mauv,Ukraine
+39,Female,Asus ZenBook,1740,4GB,Intel Core i9,15.8,9.6,Khaki,Sweden
+59,Male,HP Spectre,1705,16GB,Intel Core i5,15.1,8.1,Orange,Sweden
+53,Male,Microsoft,512,8GB,Intel Core i3,10.2,13.8,Aquamarine,Ukraine
+40,Female,Microsoft,1084,32GB,Intel Core i9,15.6,11.7,Puce,France
+51,Male,Microsoft,984,4GB,Intel Core i3,13,15.8,Yellow,Sweden
+19,Male,HP Spectre,398,16GB,Intel Core i7,15.2,4.1,Fuscia,Sweden
+20,Male,Asus ZenBook,1986,16GB,Intel Core i5,13.6,11.3,Orange,Ireland
+39,Female,Asus ZenBook,573,4GB,Intel Core i7,13,14.2,Turquoise,Albania
+50,Male,HP Spectre,1426,32GB,Intel Core i7,13.2,10.8,Mauv,Portugal
+60,Male,Dell XPS,1488,4GB,Intel Core i5,15.1,15,Violet,Sweden
+34,Male,Asus ZenBook,1303,4GB,Intel Core i7,13.6,14.4,Khaki,Portugal
+25,Male,Asus ZenBook,922,4GB,Intel Core i3,15.3,9.5,Fuscia,France
+20,Male,Lenovo ThinkPad,300,16GB,Intel Core i5,13.3,15.8,Pink,Sweden
+30,Male,Asus ZenBook,392,4GB,Intel Core i7,16.1,10.1,Indigo,Serbia
+59,Male,Lenovo ThinkPad,1777,4GB,Intel Core i3,15.2,12,Maroon,Ukraine
+41,Male,MacBook Pro,1367,32GB,Intel Core i9,15.6,9.2,Purple,Greece
+54,Female,MacBook Pro,1373,4GB,Intel Core i5,16,15.8,Fuscia,Serbia
+28,Male,MacBook Pro,1402,32GB,Intel Core i3,11.6,4.1,Purple,Sweden
+59,Female,Lenovo ThinkPad,613,16GB,Intel Core i3,12.9,7.5,Teal,Ukraine
+40,Male,Dell XPS,1530,16GB,Intel Core i5,12.6,15,Mauv,Norway
+50,Male,Dell XPS,656,32GB,Intel Core i5,14.6,9.4,Yellow,Ukraine
+59,Male,Lenovo ThinkPad,225,4GB,Intel Core i3,11.7,15.4,Violet,Portugal
+52,Female,HP Spectre,1553,16GB,Intel Core i5,14.7,15.5,Green,Sweden
+36,Male,HP Spectre,938,16GB,Intel Core i7,12.2,8.7,Turquoise,Greece
+49,Male,HP Spectre,392,8GB,Intel Core i9,15.3,4.7,Green,France
+15,Male,MacBook Pro,942,16GB,Intel Core i5,11.4,15.5,Orange,Greece
+20,Male,Microsoft,1425,8GB,Intel Core i5,11.3,13.2,Goldenrod,Greece
+30,Female,Dell XPS,1771,8GB,Intel Core i9,10.7,15.8,Mauv,France
+30,Male,Microsoft,312,32GB,Intel Core i3,13.1,13.9,Red,Ukraine
+23,Female,MacBook Pro,226,8GB,Intel Core i7,13.2,8.9,Puce,Portugal
+14,Female,Lenovo ThinkPad,1384,4GB,Intel Core i3,13.5,5.5,Teal,Sweden
+34,Female,Microsoft,1660,4GB,Intel Core i9,15.2,15.7,Pink,Greece
+26,Male,Lenovo ThinkPad,518,8GB,Intel Core i5,13.1,11.6,Orange,Germany
+36,Male,HP Spectre,1800,8GB,Intel Core i3,12.2,9.3,Yellow,France
+27,Female,Dell XPS,1975,16GB,Intel Core i5,15.3,10.6,Fuscia,Sweden
+34,Female,Lenovo ThinkPad,399,4GB,Intel Core i5,12.8,9,Purple,Portugal
+16,Female,MacBook Pro,611,32GB,Intel Core i5,12.6,6.1,Indigo,France
+51,Male,Dell XPS,934,16GB,Intel Core i9,16.5,6.1,Red,Sweden
+23,Female,Dell XPS,247,16GB,Intel Core i9,15.4,15.5,Fuscia,Norway
+53,Male,Dell XPS,220,4GB,Intel Core i9,13.6,5.7,Goldenrod,Greece
+23,Male,Microsoft,484,8GB,Intel Core i3,13.9,11.6,Maroon,Portugal
+25,Male,Dell XPS,1808,32GB,Intel Core i3,12,7.4,Aquamarine,France
+17,Female,Lenovo ThinkPad,1852,32GB,Intel Core i5,11,5.9,Mauv,Sweden
+29,Female,MacBook Pro,1184,16GB,Intel Core i7,13.9,11.7,Pink,Sweden
+53,Female,HP Spectre,1374,16GB,Intel Core i9,12.3,12.9,Green,France
+51,Male,Dell XPS,910,4GB,Intel Core i7,13.6,11.3,Mauv,Sweden
+16,Male,HP Spectre,1510,32GB,Intel Core i7,15,14.3,Indigo,Germany
+26,Male,Dell XPS,1371,8GB,Intel Core i7,15.9,7.4,Aquamarine,Portugal
+59,Female,Microsoft,1032,8GB,Intel Core i9,15.9,10,Fuscia,Sweden
+38,Male,Lenovo ThinkPad,271,8GB,Intel Core i9,16.7,5.9,Crimson,France
+37,Female,MacBook Pro,706,32GB,Intel Core i5,15.4,10.5,Khaki,Portugal
+29,Male,Asus ZenBook,1692,8GB,Intel Core i9,15.7,4.3,Indigo,Albania
+60,Male,Lenovo ThinkPad,389,4GB,Intel Core i5,16.9,5,Purple,Portugal
+17,Female,HP Spectre,282,32GB,Intel Core i7,11.4,10.2,Orange,France
+26,Female,Microsoft,1927,4GB,Intel Core i9,15.9,15.9,Indigo,Germany
+33,Male,Dell XPS,1581,16GB,Intel Core i3,13.4,13.4,Puce,Germany
+25,Female,Asus ZenBook,1803,16GB,Intel Core i7,13.2,4.8,Aquamarine,Spain
+29,Male,HP Spectre,1612,32GB,Intel Core i7,14,14,Fuscia,Portugal
+41,Female,Lenovo ThinkPad,680,4GB,Intel Core i7,10.3,4.9,Pink,France
+42,Male,Microsoft,1500,32GB,Intel Core i5,16.8,11.5,Goldenrod,Portugal
+36,Male,Microsoft,906,16GB,Intel Core i3,13.9,9,Yellow,Portugal
+32,Male,Asus ZenBook,1181,32GB,Intel Core i5,13.3,14.8,Orange,France
+21,Female,Lenovo ThinkPad,586,4GB,Intel Core i9,12.8,4.2,Green,Greece
+16,Female,HP Spectre,323,32GB,Intel Core i9,14.5,4.4,Orange,Sweden
+17,Female,Dell XPS,973,4GB,Intel Core i3,14.5,14,Maroon,Ukraine
+29,Female,Microsoft,435,16GB,Intel Core i3,14.6,15.5,Crimson,Albania
+14,Male,Asus ZenBook,1724,4GB,Intel Core i3,13.8,10.7,Green,United Kingdom
+24,Female,HP Spectre,1565,4GB,Intel Core i5,11.1,8.8,Mauv,Portugal
+35,Female,MacBook Pro,1693,4GB,Intel Core i9,12.2,7.5,Purple,Portugal
+41,Male,HP Spectre,1793,4GB,Intel Core i7,13.2,9.8,Violet,Serbia
+42,Male,Asus ZenBook,280,4GB,Intel Core i3,13.5,6.1,Fuscia,Greece
+27,Female,MacBook Pro,1516,16GB,Intel Core i7,11.3,12.2,Violet,Sweden
+52,Female,MacBook Pro,817,4GB,Intel Core i7,11.9,13.5,Crimson,Kosovo
+47,Female,Microsoft,475,4GB,Intel Core i9,15.2,5.1,Aquamarine,Greece
+43,Male,MacBook Pro,222,32GB,Intel Core i5,16.2,13.1,Khaki,France
+39,Female,Lenovo ThinkPad,1385,16GB,Intel Core i9,15.6,12,Puce,Sweden
+52,Male,Dell XPS,293,16GB,Intel Core i7,12.1,14.7,Yellow,Sweden
+47,Female,Dell XPS,390,8GB,Intel Core i9,10.6,4.3,Mauv,Norway
+54,Female,Asus ZenBook,234,4GB,Intel Core i5,11.7,4.1,Indigo,France
+44,Female,HP Spectre,333,8GB,Intel Core i9,15.9,7,Yellow,Sweden
+36,Female,Lenovo ThinkPad,467,16GB,Intel Core i9,14.8,7.2,Red,Portugal
+22,Male,Asus ZenBook,1753,4GB,Intel Core i7,12.1,5.7,Red,France
+38,Female,Microsoft,1620,4GB,Intel Core i5,11.1,11.5,Khaki,Albania
+59,Male,HP Spectre,872,4GB,Intel Core i3,14.6,6.8,Turquoise,Denmark
+42,Male,Lenovo ThinkPad,1954,8GB,Intel Core i9,14.5,12.6,Yellow,Sweden
+29,Female,Asus ZenBook,1161,16GB,Intel Core i9,14.6,10.1,Puce,Portugal
+21,Female,MacBook Pro,1001,4GB,Intel Core i5,16.3,11.8,Aquamarine,Sweden
+24,Male,MacBook Pro,245,16GB,Intel Core i5,15.7,8.3,Turquoise,France
+25,Female,MacBook Pro,258,32GB,Intel Core i3,16.4,12.6,Yellow,Portugal
+30,Female,Asus ZenBook,1362,32GB,Intel Core i9,14.6,14.9,Fuscia,Ukraine
+31,Female,HP Spectre,1812,8GB,Intel Core i7,11.7,15.1,Blue,Albania
+30,Male,Dell XPS,222,8GB,Intel Core i9,13.8,9.1,Khaki,Ukraine
+51,Female,Microsoft,752,16GB,Intel Core i9,10.4,12.9,Turquoise,France
+47,Male,HP Spectre,1298,16GB,Intel Core i9,13.7,5.2,Pink,Norway
+54,Female,HP Spectre,919,4GB,Intel Core i5,15.2,5,Fuscia,Ukraine
+18,Male,HP Spectre,703,8GB,Intel Core i9,13,12,Puce,Ukraine
+54,Male,Asus ZenBook,782,8GB,Intel Core i9,16,6.4,Turquoise,Serbia
+52,Male,Dell XPS,1742,16GB,Intel Core i3,12.9,12.7,Pink,Greece
+16,Male,HP Spectre,1671,32GB,Intel Core i3,16.7,13.7,Crimson,Portugal
+33,Male,Asus ZenBook,1075,16GB,Intel Core i3,17,13.4,Mauv,Albania
+59,Female,HP Spectre,666,8GB,Intel Core i3,11.3,7.6,Turquoise,Greece
+52,Female,Microsoft,1935,8GB,Intel Core i3,12.5,5.8,Red,Albania
+51,Female,Asus ZenBook,1642,32GB,Intel Core i5,10.1,10.6,Goldenrod,Ukraine
+35,Female,Asus ZenBook,295,4GB,Intel Core i3,10.1,15.9,Yellow,Portugal
+17,Male,MacBook Pro,1375,16GB,Intel Core i5,11.9,6.1,Purple,Sweden
+56,Male,Dell XPS,1938,16GB,Intel Core i7,11.5,14.2,Goldenrod,France
+46,Male,Microsoft,356,4GB,Intel Core i7,13.7,8,Turquoise,United Kingdom
+21,Male,Microsoft,420,16GB,Intel Core i9,10.1,6.5,Fuscia,France
+30,Female,MacBook Pro,1431,16GB,Intel Core i5,13.1,8.9,Violet,France
+42,Male,Asus ZenBook,346,16GB,Intel Core i5,10.3,7.3,Purple,Serbia
+38,Male,Dell XPS,1341,8GB,Intel Core i9,15.1,12.7,Goldenrod,Ukraine
+18,Male,HP Spectre,1840,16GB,Intel Core i7,15.4,5.4,Aquamarine,Sweden
+55,Male,Lenovo ThinkPad,988,32GB,Intel Core i9,15.4,7.7,Green,France
+51,Female,Dell XPS,808,4GB,Intel Core i7,16.5,7.2,Indigo,Greece
+17,Male,Dell XPS,1432,32GB,Intel Core i7,10.2,13.4,Purple,France
+48,Female,Asus ZenBook,1696,32GB,Intel Core i3,12.3,7.5,Crimson,Greece
+50,Male,Asus ZenBook,1395,16GB,Intel Core i7,16.9,5.4,Orange,France
+32,Male,Asus ZenBook,745,4GB,Intel Core i5,15.6,14.1,Indigo,France
+30,Male,Microsoft,579,8GB,Intel Core i7,16.8,14.5,Aquamarine,Portugal
+17,Female,MacBook Pro,292,16GB,Intel Core i5,10.1,9.3,Yellow,Sweden
+46,Male,Lenovo ThinkPad,827,32GB,Intel Core i5,15.7,4.9,Teal,Italy
+24,Male,Microsoft,463,32GB,Intel Core i9,15.3,12,Orange,Portugal
+54,Male,Asus ZenBook,528,32GB,Intel Core i9,15.4,13.1,Teal,Greece
+54,Male,Lenovo ThinkPad,543,4GB,Intel Core i9,14.8,10.3,Aquamarine,Portugal
+59,Male,HP Spectre,1462,32GB,Intel Core i3,16.4,13.4,Puce,Norway
+29,Female,Dell XPS,210,4GB,Intel Core i7,11.7,13.9,Puce,Sweden
+39,Female,HP Spectre,1819,16GB,Intel Core i7,12.7,11.8,Orange,Greece
+45,Female,MacBook Pro,1635,32GB,Intel Core i5,12.6,14.6,Violet,Ukraine
+26,Female,Asus ZenBook,1109,8GB,Intel Core i3,11.9,9.8,Maroon,France
+49,Female,MacBook Pro,583,4GB,Intel Core i5,14.2,6.2,Pink,Greece
+18,Male,HP Spectre,834,32GB,Intel Core i5,12.9,5.2,Mauv,Portugal
+30,Female,Lenovo ThinkPad,644,16GB,Intel Core i5,10.7,7,Puce,France
+31,Female,Microsoft,241,4GB,Intel Core i9,10.2,5.3,Yellow,Portugal
+22,Female,Lenovo ThinkPad,450,4GB,Intel Core i3,14.1,8,Khaki,Sweden
+28,Female,HP Spectre,244,4GB,Intel Core i7,11.2,8.6,Mauv,Portugal
+37,Female,Lenovo ThinkPad,309,32GB,Intel Core i7,16,5.3,Khaki,Portugal
+14,Male,Asus ZenBook,1966,16GB,Intel Core i9,10.5,6.8,Aquamarine,Portugal
+58,Female,MacBook Pro,1111,16GB,Intel Core i9,14.7,12.6,Teal,Greece
+17,Male,HP Spectre,570,16GB,Intel Core i7,16,12.4,Violet,Norway
+21,Female,Microsoft,1469,16GB,Intel Core i3,10.7,10.4,Maroon,Portugal
+19,Female,Asus ZenBook,1766,8GB,Intel Core i3,12.6,15.9,Yellow,Greece
+58,Male,Dell XPS,956,4GB,Intel Core i9,16.6,12.2,Maroon,France
+56,Male,Lenovo ThinkPad,1079,32GB,Intel Core i3,14,14.2,Yellow,Portugal
+44,Male,Dell XPS,389,8GB,Intel Core i3,12.5,16,Pink,Albania
+45,Male,Lenovo ThinkPad,1022,16GB,Intel Core i9,10.1,11.7,Blue,France
+56,Female,MacBook Pro,1586,4GB,Intel Core i7,16.1,10.6,Green,Italy
+15,Female,Asus ZenBook,366,32GB,Intel Core i3,12.1,7.8,Violet,Denmark
+56,Female,HP Spectre,1373,4GB,Intel Core i5,11.3,11.1,Purple,Portugal
+46,Male,MacBook Pro,1523,32GB,Intel Core i3,11.8,6.9,Turquoise,Serbia
+44,Female,Microsoft,1523,32GB,Intel Core i9,14.4,14.1,Blue,Albania
+51,Male,Dell XPS,1261,32GB,Intel Core i5,13.4,15.1,Orange,Germany
+46,Female,Lenovo ThinkPad,1079,4GB,Intel Core i7,13.2,15.6,Khaki,Portugal
+46,Female,Lenovo ThinkPad,778,8GB,Intel Core i7,15,7.9,Crimson,France
+60,Female,Lenovo ThinkPad,1776,32GB,Intel Core i9,13.5,11.2,Pink,Portugal
+54,Male,Asus ZenBook,739,8GB,Intel Core i7,13.6,14.9,Khaki,France
+46,Male,HP Spectre,530,32GB,Intel Core i7,15.8,5.4,Yellow,Greece
+22,Female,Dell XPS,1911,32GB,Intel Core i7,16,7.5,Maroon,Sweden
+53,Male,Dell XPS,746,4GB,Intel Core i7,16.3,7.5,Red,Greece
+42,Male,Dell XPS,775,8GB,Intel Core i9,14.1,12.3,Pink,Portugal
+46,Female,Microsoft,471,32GB,Intel Core i3,15.2,7.1,Puce,Sweden
+52,Female,Lenovo ThinkPad,1963,8GB,Intel Core i7,11.3,4.8,Fuscia,Sweden
+20,Male,MacBook Pro,1716,16GB,Intel Core i9,16.9,8.7,Goldenrod,Sweden
+39,Female,Dell XPS,349,8GB,Intel Core i9,13.2,4.8,Crimson,France
+51,Female,Microsoft,1381,16GB,Intel Core i5,11.1,7.8,Khaki,Norway
+27,Male,MacBook Pro,1203,32GB,Intel Core i3,13.3,9.8,Aquamarine,Sweden
+37,Male,HP Spectre,1942,8GB,Intel Core i3,12.5,11.6,Green,Portugal
+17,Female,HP Spectre,221,8GB,Intel Core i9,11,8.4,Goldenrod,Portugal
+59,Female,Lenovo ThinkPad,778,4GB,Intel Core i9,13.9,9.6,Goldenrod,France
+16,Male,MacBook Pro,844,4GB,Intel Core i9,12.8,9.2,Crimson,Ireland
+57,Female,MacBook Pro,1600,4GB,Intel Core i9,12.4,11.9,Aquamarine,Portugal
+47, Female,Lenovo ThinkPad,671,32GB,Intel Core i3,13.5,14.6,Blue,France
+58,Male,Asus ZenBook,314,16GB,Intel Core i9,14.7,10.9,Goldenrod,Norway
+56,Female,HP Spectre,1452,16GB,Intel Core i9,15.9,5.7,Indigo,France
+24,Female,Lenovo ThinkPad,1932,16GB,Intel Core i9,11,13.7,Aquamarine,France
+45,Female,MacBook Pro,547,8GB,Intel Core i7,11.5,13.3,Red,Ireland
+38,Female,Lenovo ThinkPad,1095,32GB,Intel Core i3,14.9,4.6,Puce,Ukraine
+50,Male,Asus ZenBook,1362,32GB,Intel Core i3,12.4,15.3,Yellow,Portugal
+21,Female,MacBook Pro,583,4GB,Intel Core i5,10.7,13.4,Turquoise,Greece
+21,Female,Lenovo ThinkPad,1632,16GB,Intel Core i3,14,10.5,Crimson,France
+53,Female,Lenovo ThinkPad,1957,8GB,Intel Core i7,12.2,14.9,Crimson,Portugal
+33,Female,HP Spectre,697,8GB,Intel Core i7,11.3,7.1,Red,Italy
+48,Male,Dell XPS,346,32GB,Intel Core i7,13.3,12.4,Indigo,France
+31,Female,HP Spectre,1047,8GB,Intel Core i7,10,4.8,Khaki,Portugal
+58,Male,HP Spectre,1268,4GB,Intel Core i9,12.3,7.3,Violet,Portugal
+54,Male,MacBook Pro,1027,8GB,Intel Core i7,14.5,4.9,Red,Serbia
+44,Male,MacBook Pro,825,8GB,Intel Core i3,12.2,5.5,Aquamarine,Portugal
+53,Male,Microsoft,1665,8GB,Intel Core i3,11.2,14.6,Fuscia,Portugal
+38,Male,Dell XPS,1624,8GB,Intel Core i5,16.8,15.2,Green,Portugal
+45,Female,HP Spectre,363,32GB,Intel Core i9,15.1,7.2,Yellow,Portugal
+28,Male,MacBook Pro,1065,16GB,Intel Core i5,15.2,14.7,Crimson,Portugal
+33,Female,Lenovo ThinkPad,1535,4GB,Intel Core i3,15.1,4.8,Pink,Greece
+15,Male,Asus ZenBook,542,16GB,Intel Core i7,12.3,4.8,Yellow,Ukraine
+60,Female,Dell XPS,618,32GB,Intel Core i7,12.3,10.2,Violet,France
+46,Female,Lenovo ThinkPad,1864,4GB,Intel Core i5,13.2,5.5,Aquamarine,Portugal
+31,Female,HP Spectre,1087,8GB,Intel Core i3,11.1,7.5,Orange,France
+41,Male,Dell XPS,1059,4GB,Intel Core i9,16.8,12.7,Teal,Denmark
+15,Female,Microsoft,1749,8GB,Intel Core i9,11.6,8,Crimson,France
+43,Female,Lenovo ThinkPad,1680,4GB,Intel Core i7,12.7,11.9,Purple,Ukraine
+35,Male,Microsoft,549,8GB,Intel Core i5,15.3,11.9,Teal,Ukraine
+14,Male,Dell XPS,434,8GB,Intel Core i7,16.4,6.2,Yellow,Portugal
+37,Male,MacBook Pro,1644,32GB,Intel Core i9,10.3,12.6,Purple,Albania
+49,Male,Asus ZenBook,361,8GB,Intel Core i9,14.9,12.5,Crimson,Kosovo
+45,Male,Asus ZenBook,1640,16GB,Intel Core i9,11.9,5.5,Orange,Sweden
+31,Male,Microsoft,489,32GB,Intel Core i3,16.8,9.6,Indigo,Greece
+25,Female,Asus ZenBook,1498,32GB,Intel Core i9,13.9,6.1,Puce,Serbia
+54,Female,MacBook Pro,1468,32GB,Intel Core i3,15.3,9.4,Mauv,Greece
+45,Male,HP Spectre,549,32GB,Intel Core i3,13.6,11.5,Puce,Sweden
+14,Male,Lenovo ThinkPad,443,8GB,Intel Core i7,14.4,14.7,Indigo,Portugal
+14,Female,MacBook Pro,1420,32GB,Intel Core i9,13.7,5.7,Red,France
+40, Female,Lenovo ThinkPad,530,8GB,Intel Core i9,12.1,9.1,Puce,Sweden
+31,Female,Dell XPS,1000,16GB,Intel Core i9,12.8,9.4,Puce,Sweden
+35,Female,HP Spectre,990,32GB,Intel Core i7,16.6,12.7,Red,Portugal
+55,Male,MacBook Pro,1134,8GB,Intel Core i3,13,7.8,Yellow,Portugal
+51,Male,HP Spectre,772,4GB,Intel Core i5,10.6,9.6,Violet,France
+57,Male,Microsoft,599,4GB,Intel Core i9,14.4,12.8,Pink,Greece
+30,Female,Lenovo ThinkPad,1501,32GB,Intel Core i9,15.7,6.7,Crimson,Greece
+41, Female,MacBook Pro,1298,32GB,Intel Core i9,14.5,8.3,Aquamarine,Ukraine
+50,Female,Asus ZenBook,1718,4GB,Intel Core i3,13,8.6,Orange,Sweden
+44,Male,MacBook Pro,824,32GB,Intel Core i3,10.2,8.5,Turquoise,Greece
+40,Female,Dell XPS,388,16GB,Intel Core i9,16.9,6.3,Indigo,Albania
+27,Male,HP Spectre,1177,16GB,Intel Core i5,14,12.4,Crimson,Sweden
+59,Female,Asus ZenBook,763,32GB,Intel Core i3,14.7,15.7,Crimson,France
+48,Female,Microsoft,1598,16GB,Intel Core i9,16.8,13.6,Violet,Ukraine
+53,Female,Lenovo ThinkPad,728,16GB,Intel Core i5,13.6,11.3,Aquamarine,Sweden
+18,Female,MacBook Pro,1175,8GB,Intel Core i9,16.2,12.9,Green,Sweden
+32,Male,Asus ZenBook,318,8GB,Intel Core i3,11.8,12.1,Orange,Portugal
+30,Female,Dell XPS,1198,8GB,Intel Core i9,11.6,7.4,Maroon,Sweden
+39,Male,Lenovo ThinkPad,824,8GB,Intel Core i9,11.1,5.7,Crimson,Portugal
+48,Male,MacBook Pro,1809,4GB,Intel Core i7,15.1,12,Purple,Sweden
+31,Female,MacBook Pro,366,16GB,Intel Core i9,13.1,9.4,Turquoise,Greece
+20,Female,Lenovo ThinkPad,1029,8GB,Intel Core i9,16.7,8,Puce,Sweden
+33,Male,Microsoft,563,8GB,Intel Core i5,10.8,5.9,Aquamarine,France
+48,Male,HP Spectre,1444,8GB,Intel Core i9,10.8,13.6,Turquoise,Portugal
+55,Female,HP Spectre,1810,16GB,Intel Core i7,15.7,4.3,Orange,France
+32,Female,Asus ZenBook,1297,32GB,Intel Core i7,12.5,12.9,Purple,France
+32,Female,HP Spectre,1762,8GB,Intel Core i5,10,12.3,Turquoise,Ireland
+53,Female,Dell XPS,967,8GB,Intel Core i3,14.3,10.4,Goldenrod,Albania
+18,Female,Dell XPS,1354,4GB,Intel Core i7,12.3,8.2,Teal,France
+14,Female,MacBook Pro,866,8GB,Intel Core i3,15.8,15.8,Indigo,Sweden
+51,Male,Lenovo ThinkPad,927,4GB,Intel Core i9,15.5,5.2,Turquoise,Albania
+56,Female,Asus ZenBook,1913,32GB,Intel Core i3,13.6,8.2,Puce,Ukraine
+16,Male,HP Spectre,1697,16GB,Intel Core i9,16.9,5,Crimson,Sweden
+43,Female,Asus ZenBook,1969,4GB,Intel Core i7,14.9,4.7,Teal,Portugal
+27,Female,Microsoft,884,4GB,Intel Core i3,11.9,8.8,Aquamarine,Sweden
+49,Female,Dell XPS,1854,4GB,Intel Core i9,14.6,5.5,Fuscia,Sweden
+21,Male,Dell XPS,1463,8GB,Intel Core i9,16,15.2,Turquoise,Serbia
+48,Female,HP Spectre,1799,32GB,Intel Core i3,13.9,7.8,Indigo,Ukraine
+37,Female,Dell XPS,1900,32GB,Intel Core i3,15.5,7.2,Crimson,Greece
+30,Female,Asus ZenBook,1773,32GB,Intel Core i9,14.8,5.6,Mauv,Sweden
+21,Male,Lenovo ThinkPad,551,16GB,Intel Core i7,12.7,11.5,Turquoise,France
+38,Male,MacBook Pro,1354,16GB,Intel Core i5,15.9,14.9,Pink,Ukraine
+41,Male,Microsoft,854,32GB,Intel Core i3,15.4,8.1,Puce,France
+17,Male,HP Spectre,1671,32GB,Intel Core i3,16.7,15.2,Puce,Serbia
+47,Female,Lenovo ThinkPad,1813,8GB,Intel Core i3,13.8,5.7,Pink,France
+22,Male,MacBook Pro,1947,16GB,Intel Core i7,14,13.4,Fuscia,Portugal
+40,Male,Microsoft,1694,4GB,Intel Core i9,10.6,5.6,Red,Hungary
+28,Male,Dell XPS,1797,4GB,Intel Core i3,13.3,12.5,Purple,Portugal
+36,Male,Dell XPS,874,16GB,Intel Core i9,14.2,13.7,Goldenrod,France
+24,Male,Asus ZenBook,1103,4GB,Intel Core i5,15.7,14.7,Puce,Serbia
+26,Male,Lenovo ThinkPad,951,8GB,Intel Core i7,15.5,7.4,Goldenrod,France
+45,Female,Lenovo ThinkPad,1788,32GB,Intel Core i9,13.9,7.8,Turquoise,Greece
+43,Female,Microsoft,1270,4GB,Intel Core i7,12,6.2,Red,Greece
+36,Female,Asus ZenBook,952,16GB,Intel Core i7,11.2,15.4,Crimson,United Kingdom
+20,Female,MacBook Pro,721,8GB,Intel Core i7,10.9,5.2,Green,Sweden
+46,Female,Asus ZenBook,660,16GB,Intel Core i3,16.5,15.4,Khaki,Denmark
+30,Male,Asus ZenBook,956,8GB,Intel Core i9,11.4,14.7,Teal,Sweden
+51,Female,HP Spectre,1057,16GB,Intel Core i5,15.3,12.6,Maroon,France
+33,Male,Dell XPS,605,4GB,Intel Core i3,11.4,11,Pink,Ireland
+24,Male,Dell XPS,897,16GB,Intel Core i3,12.2,9.4,Khaki,Sweden
+36,Male,MacBook Pro,1761,16GB,Intel Core i7,12,8.6,Goldenrod,Portugal
+35,Male,HP Spectre,1028,32GB,Intel Core i7,12.7,5.8,Khaki,Portugal
+29,Female,Asus ZenBook,1157,4GB,Intel Core i9,10.3,13.1,Puce,Ukraine
+37,Male,Lenovo ThinkPad,931,4GB,Intel Core i9,16.8,7.4,Violet,Germany
+26,Male,Dell XPS,457,16GB,Intel Core i9,13.8,12.6,Khaki,France
+32,Male,Microsoft,1542,4GB,Intel Core i9,15.4,12.5,Green,Sweden
+33,Female,Lenovo ThinkPad,221,16GB,Intel Core i3,13.4,10,Goldenrod,Ukraine
+36,Female,Lenovo ThinkPad,1059,16GB,Intel Core i5,12.1,13.4,Teal,France
+48,Male,Dell XPS,545,32GB,Intel Core i5,15.8,13.6,Puce,Portugal
+47,Male,Asus ZenBook,932,8GB,Intel Core i9,14.7,14.6,Turquoise,Kosovo
+20,Male,Asus ZenBook,517,8GB,Intel Core i5,16.9,7.5,Mauv,Portugal
+32,Male,Dell XPS,1336,4GB,Intel Core i7,13.9,14.7,Purple,Sweden
+37,Female,Asus ZenBook,482,32GB,Intel Core i3,11.3,9.2,Teal,Ukraine
+53,Female,Dell XPS,660,8GB,Intel Core i3,15.1,13.8,Aquamarine,Germany
+16,Male,MacBook Pro,250,16GB,Intel Core i5,10.9,5.8,Turquoise,Portugal
+15,Female,Lenovo ThinkPad,673,8GB,Intel Core i9,10.6,9.9,Teal,Portugal
+25,Female,Lenovo ThinkPad,600,16GB,Intel Core i3,10.8,9.1,Indigo,France
+47,Female,Asus ZenBook,1367,4GB,Intel Core i5,10.5,9.1,Puce,Ukraine
+33,Male,Microsoft,1827,32GB,Intel Core i7,10.9,6.8,Goldenrod,Sweden
+55,Male,Lenovo ThinkPad,1513,4GB,Intel Core i5,12.7,11.2,Yellow,Ireland
+35,Female,Microsoft,202,4GB,Intel Core i7,12.9,9.1,Mauv,Albania
+48,Female,Microsoft,1636,4GB,Intel Core i5,11.3,14.7,Blue,France
+58,Female,Lenovo ThinkPad,1574,4GB,Intel Core i7,15.1,6.2,Pink,France
+46,Female,Dell XPS,786,16GB,Intel Core i7,11.5,4.7,Green,France
+45, Female,Asus ZenBook,1853,32GB,Intel Core i9,12,8.6,Khaki,Greece
+49,Female,MacBook Pro,1773,32GB,Intel Core i7,16.5,12.1,Mauv,Sweden
+54,Female,HP Spectre,1284,4GB,Intel Core i5,12.3,12,Maroon,Ukraine
+45,Male,Asus ZenBook,1336,16GB,Intel Core i5,11.2,11.3,Khaki,Portugal
+42,Female,Lenovo ThinkPad,221,16GB,Intel Core i5,15.6,14.5,Puce,Portugal
+45,Female,Dell XPS,1370,4GB,Intel Core i5,10.6,8.3,Yellow,France
+55,Female,Dell XPS,753,32GB,Intel Core i7,10.2,7.7,Green,Ukraine
+37,Male,Lenovo ThinkPad,879,32GB,Intel Core i3,16.6,12.9,Maroon,Serbia
+42, Female,MacBook Pro,1998,16GB,Intel Core i5,12.2,13.6,Blue,Greece
+51,Female,Dell XPS,1796,16GB,Intel Core i9,15.3,15.9,Indigo,Portugal
+33,Female,HP Spectre,317,4GB,Intel Core i3,15.2,9.9,Mauv,Portugal
+28,Male,Microsoft,1637,16GB,Intel Core i5,16.5,4.2,Crimson,Portugal
+26,Female,Microsoft,1539,32GB,Intel Core i5,12.4,12.6,Turquoise,Portugal
+52, Female,Dell XPS,449,4GB,Intel Core i9,13.1,13,Puce,Portugal
+59,Female,Asus ZenBook,1750,16GB,Intel Core i7,10.1,4.1,Orange,Sweden
+38,Female,Microsoft,741,4GB,Intel Core i9,15.8,15.5,Fuscia,Greece
+60,Male,Dell XPS,565,4GB,Intel Core i3,15.1,12.2,Blue,Portugal
+50,Male,Microsoft,1423,16GB,Intel Core i7,12.2,15.2,Purple,Portugal
+49,Male,Lenovo ThinkPad,1675,4GB,Intel Core i5,14.8,6.8,Crimson,Ukraine
+34,Female,HP Spectre,736,16GB,Intel Core i3,14,5.1,Blue,Portugal
+41,Male,Dell XPS,834,32GB,Intel Core i3,17,11.6,Teal,Portugal
+55,Female,HP Spectre,704,32GB,Intel Core i3,11,8.6,Teal,Sweden
+39,Female,Asus ZenBook,1773,4GB,Intel Core i5,11,4.2,Mauv,Sweden
+27,Male,Asus ZenBook,1071,32GB,Intel Core i5,10.6,10.2,Mauv,Serbia
+60,Male,Dell XPS,535,8GB,Intel Core i7,11.8,4.8,Teal,Spain
+60,Female,Microsoft,1279,4GB,Intel Core i9,14.8,15,Violet,Greece
+26,Male,Microsoft,1895,4GB,Intel Core i9,10.2,7.5,Purple,Serbia
+31,Male,Microsoft,763,8GB,Intel Core i7,14.6,4.5,Khaki,Albania
+42,Male,Dell XPS,1343,8GB,Intel Core i5,14.6,13.5,Orange,Ireland
+29,Female,MacBook Pro,1751,8GB,Intel Core i7,14.2,12.4,Indigo,Ireland
+55,Male,Microsoft,1744,8GB,Intel Core i9,14.2,8.6,Orange,Portugal
+27,Female,Microsoft,575,32GB,Intel Core i3,12.3,11,Orange,France
+60,Female,Asus ZenBook,232,4GB,Intel Core i9,14.9,11.8,Pink,Portugal
+56,Female,Dell XPS,376,8GB,Intel Core i9,15.6,13.3,Maroon,Sweden
+39,Male,Lenovo ThinkPad,1129,16GB,Intel Core i7,10.4,5.7,Orange,Sweden
+27,Male,Lenovo ThinkPad,973,8GB,Intel Core i3,10.7,13,Mauv,France
+28,Male,Asus ZenBook,249,16GB,Intel Core i9,15.4,8.8,Purple,Ukraine
+36,Female,HP Spectre,1492,16GB,Intel Core i5,14.7,14.7,Violet,Sweden
+43,Male,Microsoft,754,32GB,Intel Core i7,13.4,9.9,Yellow,France
+42,Female,MacBook Pro,589,8GB,Intel Core i9,16.9,9.9,Violet,Greece
+39,Female,Microsoft,1278,32GB,Intel Core i5,11.5,10.2,Mauv,Ukraine
